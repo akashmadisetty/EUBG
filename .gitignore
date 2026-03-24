@@ -1,0 +1,19 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+*.log
+.DS_Store
+
+# Large data (ignore these)
+data/
+*.csv
+*.xlsx
+*.npy
+
+# Optional: ignore models if too big
+# *.pt
+# *.pth

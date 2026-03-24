@@ -1,0 +1,1202 @@
+[
+  {
+    "deletion_id": 0,
+    "edge": [
+      44248,
+      52731
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 1,
+    "edge": [
+      18775,
+      52626
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 2,
+    "edge": [
+      1596,
+      52532
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 3,
+    "edge": [
+      36683,
+      52539
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 4,
+    "edge": [
+      231,
+      52543
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 5,
+    "edge": [
+      44716,
+      52527
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 6,
+    "edge": [
+      25706,
+      52886
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 7,
+    "edge": [
+      27701,
+      52734
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 8,
+    "edge": [
+      2830,
+      52744
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 9,
+    "edge": [
+      361,
+      52552
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 10,
+    "edge": [
+      27708,
+      52566
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 11,
+    "edge": [
+      19452,
+      52565
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 12,
+    "edge": [
+      6467,
+      52513
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 13,
+    "edge": [
+      5755,
+      52532
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 14,
+    "edge": [
+      37600,
+      52724
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 15,
+    "edge": [
+      6715,
+      52846
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 16,
+    "edge": [
+      24103,
+      52531
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 17,
+    "edge": [
+      48466,
+      52660
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 18,
+    "edge": [
+      7601,
+      52628
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 19,
+    "edge": [
+      28331,
+      52793
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 20,
+    "edge": [
+      823,
+      52903
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 21,
+    "edge": [
+      51375,
+      52758
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 22,
+    "edge": [
+      1400,
+      52924
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 23,
+    "edge": [
+      35777,
+      52778
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 24,
+    "edge": [
+      21983,
+      52633
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 25,
+    "edge": [
+      26374,
+      52591
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 26,
+    "edge": [
+      46304,
+      52621
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 27,
+    "edge": [
+      30210,
+      52609
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 28,
+    "edge": [
+      17509,
+      52829
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 29,
+    "edge": [
+      45645,
+      52663
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 30,
+    "edge": [
+      11453,
+      52573
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 31,
+    "edge": [
+      40300,
+      52496
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 32,
+    "edge": [
+      35829,
+      52740
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 33,
+    "edge": [
+      35777,
+      52720
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 34,
+    "edge": [
+      41834,
+      52609
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 35,
+    "edge": [
+      45800,
+      52677
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 36,
+    "edge": [
+      2638,
+      52532
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 37,
+    "edge": [
+      30807,
+      52784
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 38,
+    "edge": [
+      33308,
+      52906
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 39,
+    "edge": [
+      15604,
+      52659
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 40,
+    "edge": [
+      9419,
+      52589
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 41,
+    "edge": [
+      28404,
+      52844
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 42,
+    "edge": [
+      16375,
+      52571
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 43,
+    "edge": [
+      22395,
+      52783
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 44,
+    "edge": [
+      26876,
+      52777
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 45,
+    "edge": [
+      44145,
+      52830
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 46,
+    "edge": [
+      823,
+      52929
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 47,
+    "edge": [
+      14487,
+      52707
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 48,
+    "edge": [
+      30599,
+      52778
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 49,
+    "edge": [
+      3984,
+      52813
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 50,
+    "edge": [
+      11768,
+      52501
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 51,
+    "edge": [
+      9862,
+      52610
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 52,
+    "edge": [
+      10695,
+      52573
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 53,
+    "edge": [
+      18750,
+      52866
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 54,
+    "edge": [
+      39267,
+      52704
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 55,
+    "edge": [
+      17836,
+      52586
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 56,
+    "edge": [
+      45820,
+      52781
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 57,
+    "edge": [
+      15003,
+      52538
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 58,
+    "edge": [
+      49977,
+      52758
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 59,
+    "edge": [
+      49542,
+      52589
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 60,
+    "edge": [
+      42262,
+      52574
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 61,
+    "edge": [
+      33308,
+      52792
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 62,
+    "edge": [
+      47506,
+      52554
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 63,
+    "edge": [
+      603,
+      52784
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 64,
+    "edge": [
+      25324,
+      52551
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 65,
+    "edge": [
+      21885,
+      52542
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 66,
+    "edge": [
+      4345,
+      52777
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 67,
+    "edge": [
+      3044,
+      52590
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 68,
+    "edge": [
+      50017,
+      52724
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 69,
+    "edge": [
+      36320,
+      52551
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 70,
+    "edge": [
+      823,
+      52763
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 71,
+    "edge": [
+      2830,
+      52740
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 72,
+    "edge": [
+      48975,
+      52634
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 73,
+    "edge": [
+      23282,
+      52488
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 74,
+    "edge": [
+      18775,
+      52928
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 75,
+    "edge": [
+      44349,
+      52522
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 76,
+    "edge": [
+      29683,
+      52536
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 77,
+    "edge": [
+      17596,
+      52573
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 78,
+    "edge": [
+      30599,
+      52515
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 79,
+    "edge": [
+      29721,
+      52536
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 80,
+    "edge": [
+      5075,
+      52562
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 81,
+    "edge": [
+      44465,
+      52755
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 82,
+    "edge": [
+      10002,
+      52745
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 83,
+    "edge": [
+      28331,
+      52940
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 84,
+    "edge": [
+      38773,
+      52720
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 85,
+    "edge": [
+      34412,
+      52707
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 86,
+    "edge": [
+      30523,
+      52823
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 87,
+    "edge": [
+      13675,
+      52561
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 88,
+    "edge": [
+      50629,
+      52587
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 89,
+    "edge": [
+      14403,
+      52762
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 90,
+    "edge": [
+      34267,
+      52762
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 91,
+    "edge": [
+      42182,
+      52692
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 92,
+    "edge": [
+      3297,
+      52784
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 93,
+    "edge": [
+      356,
+      52765
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 94,
+    "edge": [
+      16907,
+      52737
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 95,
+    "edge": [
+      5665,
+      52631
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 96,
+    "edge": [
+      18387,
+      52653
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 97,
+    "edge": [
+      13953,
+      52567
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 98,
+    "edge": [
+      7289,
+      52675
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  },
+  {
+    "deletion_id": 99,
+    "edge": [
+      17926,
+      52715
+    ],
+    "shard_id": "global",
+    "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
+    "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
+    "avg_time_per_del_s": 0.00014,
+    "strategy": "GradientAscent"
+  }
+]

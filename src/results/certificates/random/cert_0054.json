@@ -1,0 +1,12 @@
+{
+  "deletion_id": 54,
+  "edge": [
+    39267,
+    52704
+  ],
+  "shard_id": 7,
+  "hash_before": "ac28d3a04387ba5ea1277026834f5488835ca8182ea7b30761f309998102fbd4",
+  "hash_after": "fc2819f5bb2e96bbd1096a80510dc02fe4cfec9b895d6b967737f319dc9f6162",
+  "retrain_time_s": 1.3424,
+  "strategy": "Random"
+}

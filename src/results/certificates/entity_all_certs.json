@@ -1,0 +1,1202 @@
+[
+  {
+    "deletion_id": 0,
+    "edge": [
+      44248,
+      52731
+    ],
+    "shard_id": 16,
+    "hash_before": "380fb81b4f6c1ab6ec1fbb4deb6f8f1927cd6dd59117ff6b81235431a3150080",
+    "hash_after": "131422184d0bf615711bc68b268993e79c53b6a7091ead48fe299572bf2581f2",
+    "retrain_time_s": 1.254,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 1,
+    "edge": [
+      18775,
+      52626
+    ],
+    "shard_id": 7,
+    "hash_before": "7b67f7e5ca97d76367f367b017b1a7bf1105e928c9c9d0a47ac7de2fab8955f2",
+    "hash_after": "7bd4aea0f88756cc4e7501a9b7621d164250e57e9494a319978d70c53cab5bf5",
+    "retrain_time_s": 0.5527,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 2,
+    "edge": [
+      1596,
+      52532
+    ],
+    "shard_id": 0,
+    "hash_before": "8853669e87f9bcde58b0f8fbd8209e554b39c2a4f65b43aa279ad7aa991a6c75",
+    "hash_after": "d2a27b12711e2676d6851c398abc8369b86b6e615d4bf3f06ef709427afca5a5",
+    "retrain_time_s": 0.8227,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 3,
+    "edge": [
+      36683,
+      52539
+    ],
+    "shard_id": 13,
+    "hash_before": "361acfcd9bf86d2de3eb8b34356373bced60cfe29217733cbf7ef47a240cc91a",
+    "hash_after": "509d94dfd54466e0e97bde02f2d2b7dca9b8b4f034aaf12f8e5ad214c676e813",
+    "retrain_time_s": 0.6689,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 4,
+    "edge": [
+      231,
+      52543
+    ],
+    "shard_id": 0,
+    "hash_before": "d2a27b12711e2676d6851c398abc8369b86b6e615d4bf3f06ef709427afca5a5",
+    "hash_after": "eaa47a9e6e71fa11ed62fe08cff72d7a002e36ea669cd8383e572162538e0546",
+    "retrain_time_s": 0.5422,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 5,
+    "edge": [
+      44716,
+      52527
+    ],
+    "shard_id": 17,
+    "hash_before": "e14541cf82ce7bde555bba6962888684bee25a4569503ffd39bdf9a1b16cc2ed",
+    "hash_after": "b5dd3d0300d404dbcc8d358f6e9f5bbd2356157a0303ad1e7e5d51f9b5e3f1aa",
+    "retrain_time_s": 0.5003,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 6,
+    "edge": [
+      25706,
+      52886
+    ],
+    "shard_id": 9,
+    "hash_before": "fae38caa03b5e6a656448acdb92ca96b490eb54d54621f92f9632997c9cf98a1",
+    "hash_after": "d72513d70dad3c7815958d695931490a3de6d3dd2bd4e1820aea177241e7c6b5",
+    "retrain_time_s": 1.4244,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 7,
+    "edge": [
+      27701,
+      52734
+    ],
+    "shard_id": 10,
+    "hash_before": "f021e0e247d8f84dd4b5797a27cd266368b5cd66e0629d6b5a04d64bce83f2ae",
+    "hash_after": "8c387fc086f3acb1ef4653f261fc9fa4f2db4de4b3e7315846a79be9be1e8d89",
+    "retrain_time_s": 0.6521,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 8,
+    "edge": [
+      2830,
+      52744
+    ],
+    "shard_id": 1,
+    "hash_before": "dd6a293ed4d4438ad0934f2cca620a08123835e5848e1f57212fb13828dc4aa6",
+    "hash_after": "21f1812e6c769e6af04b16847dc5e0cac75d9f511a65b2bd2c4a1f6c8d1bb21c",
+    "retrain_time_s": 1.0817,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 9,
+    "edge": [
+      361,
+      52552
+    ],
+    "shard_id": 0,
+    "hash_before": "eaa47a9e6e71fa11ed62fe08cff72d7a002e36ea669cd8383e572162538e0546",
+    "hash_after": "70a82c6b87c8d4453dee19f0439b2dadfd419b07e31d5184a371a02f1d6b2f07",
+    "retrain_time_s": 0.6446,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 10,
+    "edge": [
+      27708,
+      52566
+    ],
+    "shard_id": 10,
+    "hash_before": "8c387fc086f3acb1ef4653f261fc9fa4f2db4de4b3e7315846a79be9be1e8d89",
+    "hash_after": "e82a5fedbfe7bc4fad350a17c61881993da65dc8e576d5d6384f9ab44ff974ca",
+    "retrain_time_s": 1.177,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 11,
+    "edge": [
+      19452,
+      52565
+    ],
+    "shard_id": 7,
+    "hash_before": "7bd4aea0f88756cc4e7501a9b7621d164250e57e9494a319978d70c53cab5bf5",
+    "hash_after": "640f2a66c345821e450c4296e660dc3f75bf646cfeb1fd4f7b9aa1526776b2c4",
+    "retrain_time_s": 0.5323,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 12,
+    "edge": [
+      6467,
+      52513
+    ],
+    "shard_id": 2,
+    "hash_before": "b6bed80d62ed719df6f1344401a3e643bf7d48419843cd873343530c9c130118",
+    "hash_after": "f0286e48941f08670dbdddd0a27a33eea0f9061d5a511711900e3dc40faaf03e",
+    "retrain_time_s": 0.3652,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 13,
+    "edge": [
+      5755,
+      52532
+    ],
+    "shard_id": 2,
+    "hash_before": "f0286e48941f08670dbdddd0a27a33eea0f9061d5a511711900e3dc40faaf03e",
+    "hash_after": "bd27a633f2a2b3f7c43312814941a8fbbf5f4e61b540aead0c41c00ae4af8b2a",
+    "retrain_time_s": 0.3484,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 14,
+    "edge": [
+      37600,
+      52724
+    ],
+    "shard_id": 14,
+    "hash_before": "d1a18883e4e00335ad1e399a1dccf06b8d7ca109f1ae56f32d80717dfbf9f84b",
+    "hash_after": "f3fc3e5abf82033b9a8787b15bc3d0c903ab97047718f2c46251b045e098db81",
+    "retrain_time_s": 0.3974,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 15,
+    "edge": [
+      6715,
+      52846
+    ],
+    "shard_id": 2,
+    "hash_before": "bd27a633f2a2b3f7c43312814941a8fbbf5f4e61b540aead0c41c00ae4af8b2a",
+    "hash_after": "654520ed9fc0e2b7c2de9f7abfa027990bcfa694fd6c3b4265e455f8437d6177",
+    "retrain_time_s": 0.4555,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 16,
+    "edge": [
+      24103,
+      52531
+    ],
+    "shard_id": 9,
+    "hash_before": "d72513d70dad3c7815958d695931490a3de6d3dd2bd4e1820aea177241e7c6b5",
+    "hash_after": "b6879fb1f539f2dd2363460a878777231b63e118f1b4a8d73aaf413af6ebbf43",
+    "retrain_time_s": 1.0663,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 17,
+    "edge": [
+      48466,
+      52660
+    ],
+    "shard_id": 18,
+    "hash_before": "ba9e14934a54dfb25ec669d233cc5d01bf6b20a62bf3d9214c3ba3f692ec92eb",
+    "hash_after": "93fb2dbc2798dff683169bdb76a703a19e42e99221babbf3485f6a5406b2156e",
+    "retrain_time_s": 0.4557,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 18,
+    "edge": [
+      7601,
+      52628
+    ],
+    "shard_id": 2,
+    "hash_before": "654520ed9fc0e2b7c2de9f7abfa027990bcfa694fd6c3b4265e455f8437d6177",
+    "hash_after": "a8f0ca2369eca0e15a864f0642c3df17e4344596cdc5bb43b2ddf9c60b6fc8bc",
+    "retrain_time_s": 0.4449,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 19,
+    "edge": [
+      28331,
+      52793
+    ],
+    "shard_id": 10,
+    "hash_before": "e82a5fedbfe7bc4fad350a17c61881993da65dc8e576d5d6384f9ab44ff974ca",
+    "hash_after": "00b979a25a81a636563e1ac256284238fcf97b997ae9a51e1ceafd7ebfed719d",
+    "retrain_time_s": 0.9718,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 20,
+    "edge": [
+      823,
+      52903
+    ],
+    "shard_id": 0,
+    "hash_before": "70a82c6b87c8d4453dee19f0439b2dadfd419b07e31d5184a371a02f1d6b2f07",
+    "hash_after": "e9a2a04a62d9fe48fc4fd4cbf673d592105bdec590e9eb3c769120122901e661",
+    "retrain_time_s": 0.9778,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 21,
+    "edge": [
+      51375,
+      52758
+    ],
+    "shard_id": 19,
+    "hash_before": "0b364857a5ee1d0a5b5c89c821eaff7ef74aab9015f7f4bc166554eca086bc0d",
+    "hash_after": "6bfea196f10981729bd1288c9235f59f354e3c8bae3a1124483d35ed991db76e",
+    "retrain_time_s": 0.6711,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 22,
+    "edge": [
+      1400,
+      52924
+    ],
+    "shard_id": 0,
+    "hash_before": "e9a2a04a62d9fe48fc4fd4cbf673d592105bdec590e9eb3c769120122901e661",
+    "hash_after": "70cee8a1a4d5c7c66b8cb5dd06c5f3240b2638ad8bf08eefdead45b2102252c8",
+    "retrain_time_s": 0.8551,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 23,
+    "edge": [
+      35777,
+      52778
+    ],
+    "shard_id": 13,
+    "hash_before": "509d94dfd54466e0e97bde02f2d2b7dca9b8b4f034aaf12f8e5ad214c676e813",
+    "hash_after": "db8072574b06752d2bf5284d6f077d033db1d653f373e34b8cb823abc1c7443b",
+    "retrain_time_s": 1.4289,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 24,
+    "edge": [
+      21983,
+      52633
+    ],
+    "shard_id": 8,
+    "hash_before": "c683248b470521e21282f2f7836334055db71bd5d3add6eff88c02d37f78c0e0",
+    "hash_after": "292bc9690045d92753aa1cc9cfedba8f528225ca75f2961d66375df674ef4957",
+    "retrain_time_s": 0.5185,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 25,
+    "edge": [
+      26374,
+      52591
+    ],
+    "shard_id": 10,
+    "hash_before": "00b979a25a81a636563e1ac256284238fcf97b997ae9a51e1ceafd7ebfed719d",
+    "hash_after": "a9a075401743aa03ac10cafb509eb7d0cf694f6390cbaa91e448a50f222a56db",
+    "retrain_time_s": 0.6489,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 26,
+    "edge": [
+      46304,
+      52621
+    ],
+    "shard_id": 17,
+    "hash_before": "b5dd3d0300d404dbcc8d358f6e9f5bbd2356157a0303ad1e7e5d51f9b5e3f1aa",
+    "hash_after": "0331dd65d47bc03bbd6f05cd6a752bcb2bf543a2fdfecf19243de847ca95d460",
+    "retrain_time_s": 0.4387,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 27,
+    "edge": [
+      30210,
+      52609
+    ],
+    "shard_id": 11,
+    "hash_before": "16692aadc4275c6d32c27da783783d5cd2a164ee766a56e92340402193b319f6",
+    "hash_after": "cd9c5ffeddab645a60af70ecbc8c0c3d35452fbfb2691beb550d12c45489b5bd",
+    "retrain_time_s": 1.3869,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 28,
+    "edge": [
+      17509,
+      52829
+    ],
+    "shard_id": 6,
+    "hash_before": "bc281159bbfff505ac21a78eaa8a9428ac0ec90140c29651908d54edd844720d",
+    "hash_after": "9a772a8e9fdbd358598e58e8bf43b48308658f1f4e74526324740d4fd2b57a91",
+    "retrain_time_s": 1.4253,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 29,
+    "edge": [
+      45645,
+      52663
+    ],
+    "shard_id": 17,
+    "hash_before": "0331dd65d47bc03bbd6f05cd6a752bcb2bf543a2fdfecf19243de847ca95d460",
+    "hash_after": "09823cd64226072e0a9b1510877c5a21bead2d5353e9fb93e6486c3f4c898623",
+    "retrain_time_s": 0.5159,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 30,
+    "edge": [
+      11453,
+      52573
+    ],
+    "shard_id": 4,
+    "hash_before": "7425bcb20238799a9b8301a9ba476cf0fb5d15e2862ea9025f893821acb6bf11",
+    "hash_after": "da0cff206892c8a94d591dd15e66fa2ba502eabb3edc9910e3b7f26413f3cf96",
+    "retrain_time_s": 0.4809,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 31,
+    "edge": [
+      40300,
+      52496
+    ],
+    "shard_id": 15,
+    "hash_before": "e7436bdaae11f2124ce7b470b4d4be0b5f11ec27964497b5fbdbd0f56895bf3e",
+    "hash_after": "9fecba9014c77dc36a35398c8f8cfba37ed0c2fe6cb92f9f2617bb5715291def",
+    "retrain_time_s": 0.5103,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 32,
+    "edge": [
+      35829,
+      52740
+    ],
+    "shard_id": 13,
+    "hash_before": "db8072574b06752d2bf5284d6f077d033db1d653f373e34b8cb823abc1c7443b",
+    "hash_after": "e7d7d87ff57fef40c59d399e75209da621a9cdcb2fd57bd480438d36a9e99636",
+    "retrain_time_s": 0.8904,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 33,
+    "edge": [
+      35777,
+      52720
+    ],
+    "shard_id": 13,
+    "hash_before": "e7d7d87ff57fef40c59d399e75209da621a9cdcb2fd57bd480438d36a9e99636",
+    "hash_after": "5d98356597da1224987664a29f4af964f7414e7e54fcbd816676d9e1bd351401",
+    "retrain_time_s": 0.7312,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 34,
+    "edge": [
+      41834,
+      52609
+    ],
+    "shard_id": 15,
+    "hash_before": "9fecba9014c77dc36a35398c8f8cfba37ed0c2fe6cb92f9f2617bb5715291def",
+    "hash_after": "0bfb802717f5163be4d1db01c3ab65b5849774b196aa4d1d9df0884b6e5b327e",
+    "retrain_time_s": 0.3525,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 35,
+    "edge": [
+      45800,
+      52677
+    ],
+    "shard_id": 17,
+    "hash_before": "09823cd64226072e0a9b1510877c5a21bead2d5353e9fb93e6486c3f4c898623",
+    "hash_after": "5076383bf42efc586ddf0bb9820a215858eec3cd9038a66197a26d7f4c934a36",
+    "retrain_time_s": 0.6644,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 36,
+    "edge": [
+      2638,
+      52532
+    ],
+    "shard_id": 1,
+    "hash_before": "21f1812e6c769e6af04b16847dc5e0cac75d9f511a65b2bd2c4a1f6c8d1bb21c",
+    "hash_after": "849f624aaa9fa19589472760312a1634ccc19e12f7413ef8ab764b39ed362e1b",
+    "retrain_time_s": 0.6373,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 37,
+    "edge": [
+      30807,
+      52784
+    ],
+    "shard_id": 11,
+    "hash_before": "cd9c5ffeddab645a60af70ecbc8c0c3d35452fbfb2691beb550d12c45489b5bd",
+    "hash_after": "710109e205f5b7541db60474797a0d007332f6effbb99242b6153b9b550490a6",
+    "retrain_time_s": 0.6089,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 38,
+    "edge": [
+      33308,
+      52906
+    ],
+    "shard_id": 12,
+    "hash_before": "e5b07748d7444392c367eae1ce7c2f5ac03584870c96ea42043b6553696ae65d",
+    "hash_after": "94d58c12bd4fce5d5cf086693608f22a64c239f74a394afaaea08f6c66dd9ccb",
+    "retrain_time_s": 1.1609,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 39,
+    "edge": [
+      15604,
+      52659
+    ],
+    "shard_id": 5,
+    "hash_before": "18217b946dd689f966782360395f4a8a728e9328e5384771e0cadc6d27dac0f3",
+    "hash_after": "2dbfe095fedf011911fd32986da7f2a739f3c4dfe50827d327ed4a950f806611",
+    "retrain_time_s": 0.5764,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 40,
+    "edge": [
+      9419,
+      52589
+    ],
+    "shard_id": 3,
+    "hash_before": "f81b67b0f9f33d9ba35fbe49002bc341f9cdba7555890fd8928f21e87349879f",
+    "hash_after": "37c4cca2f0ebadb52ca21487d41348208b688f22f017e32762d6e8607868993d",
+    "retrain_time_s": 0.4847,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 41,
+    "edge": [
+      28404,
+      52844
+    ],
+    "shard_id": 10,
+    "hash_before": "a9a075401743aa03ac10cafb509eb7d0cf694f6390cbaa91e448a50f222a56db",
+    "hash_after": "a770e5e375c5bf812d10250fde58e2cd39a84bf216a422fb0b91a4d1c112d272",
+    "retrain_time_s": 0.4978,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 42,
+    "edge": [
+      16375,
+      52571
+    ],
+    "shard_id": 6,
+    "hash_before": "9a772a8e9fdbd358598e58e8bf43b48308658f1f4e74526324740d4fd2b57a91",
+    "hash_after": "2b067d1617618fd74a4fd95ab0bdc47a40a2528747fae714bcca48ae9f1442e8",
+    "retrain_time_s": 0.7242,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 43,
+    "edge": [
+      22395,
+      52783
+    ],
+    "shard_id": 8,
+    "hash_before": "292bc9690045d92753aa1cc9cfedba8f528225ca75f2961d66375df674ef4957",
+    "hash_after": "776dc54c3b28d264cca06e2511513cdd0dbd8707a6060004674d4a474aec39a7",
+    "retrain_time_s": 1.0826,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 44,
+    "edge": [
+      26876,
+      52777
+    ],
+    "shard_id": 10,
+    "hash_before": "a770e5e375c5bf812d10250fde58e2cd39a84bf216a422fb0b91a4d1c112d272",
+    "hash_after": "2307f65c3fcc61544fe5018414a428dcfa579128594116c45813336dfff1ac9a",
+    "retrain_time_s": 0.7484,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 45,
+    "edge": [
+      44145,
+      52830
+    ],
+    "shard_id": 16,
+    "hash_before": "131422184d0bf615711bc68b268993e79c53b6a7091ead48fe299572bf2581f2",
+    "hash_after": "15d1fd3d7ce6634968ec2e79de0b3abeaaae084e9ff1b7f54e3680aeb3f25fee",
+    "retrain_time_s": 0.9411,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 46,
+    "edge": [
+      823,
+      52929
+    ],
+    "shard_id": 0,
+    "hash_before": "70cee8a1a4d5c7c66b8cb5dd06c5f3240b2638ad8bf08eefdead45b2102252c8",
+    "hash_after": "6f8d98755215e38b052455bb1bbcc00d8e8dbbb6e84c2740902fbc58d30b822f",
+    "retrain_time_s": 0.5487,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 47,
+    "edge": [
+      14487,
+      52707
+    ],
+    "shard_id": 5,
+    "hash_before": "2dbfe095fedf011911fd32986da7f2a739f3c4dfe50827d327ed4a950f806611",
+    "hash_after": "464f1aea5073f4d184359597b59fbd6a4c6b470f5aaa597931abad92e5a3b9fc",
+    "retrain_time_s": 0.5135,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 48,
+    "edge": [
+      30599,
+      52778
+    ],
+    "shard_id": 11,
+    "hash_before": "710109e205f5b7541db60474797a0d007332f6effbb99242b6153b9b550490a6",
+    "hash_after": "28e4a880523bf1b19f6e92f5e0306c7b22b641a209255bbd992e3f36e124d584",
+    "retrain_time_s": 0.4826,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 49,
+    "edge": [
+      3984,
+      52813
+    ],
+    "shard_id": 1,
+    "hash_before": "849f624aaa9fa19589472760312a1634ccc19e12f7413ef8ab764b39ed362e1b",
+    "hash_after": "94d7fb056a655fa42a276610127b4a737caea1c68ac5fb831660c985a71a98ce",
+    "retrain_time_s": 0.6439,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 50,
+    "edge": [
+      11768,
+      52501
+    ],
+    "shard_id": 4,
+    "hash_before": "da0cff206892c8a94d591dd15e66fa2ba502eabb3edc9910e3b7f26413f3cf96",
+    "hash_after": "fc1eb7285f62cce2ee547cb563ca9f8b950b4ad21f0b01196fb35f29a0972968",
+    "retrain_time_s": 0.4964,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 51,
+    "edge": [
+      9862,
+      52610
+    ],
+    "shard_id": 3,
+    "hash_before": "37c4cca2f0ebadb52ca21487d41348208b688f22f017e32762d6e8607868993d",
+    "hash_after": "0f304b5db4b72e308674cc3b66400152082e01874a34d3b45ac7335a7f270159",
+    "retrain_time_s": 0.3916,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 52,
+    "edge": [
+      10695,
+      52573
+    ],
+    "shard_id": 4,
+    "hash_before": "fc1eb7285f62cce2ee547cb563ca9f8b950b4ad21f0b01196fb35f29a0972968",
+    "hash_after": "ff5221578a8f73b05779b8b82d41543f9f2f8140db69ba257781a598918781fa",
+    "retrain_time_s": 0.5131,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 53,
+    "edge": [
+      18750,
+      52866
+    ],
+    "shard_id": 7,
+    "hash_before": "640f2a66c345821e450c4296e660dc3f75bf646cfeb1fd4f7b9aa1526776b2c4",
+    "hash_after": "17fc9aee8813d530b2fdbbd0267f9fdeff9aa08fcc39d7cf10cf374b193de416",
+    "retrain_time_s": 0.7293,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 54,
+    "edge": [
+      39267,
+      52704
+    ],
+    "shard_id": 14,
+    "hash_before": "f3fc3e5abf82033b9a8787b15bc3d0c903ab97047718f2c46251b045e098db81",
+    "hash_after": "f617a16864eada5ddc7db10e2c7451051289a81ee1adb5d41872d5a0c240185f",
+    "retrain_time_s": 0.524,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 55,
+    "edge": [
+      17836,
+      52586
+    ],
+    "shard_id": 6,
+    "hash_before": "2b067d1617618fd74a4fd95ab0bdc47a40a2528747fae714bcca48ae9f1442e8",
+    "hash_after": "7d0c0663ee3d5628ba0dfa3259ccc527c891a97f0d11c125be02bae7b5564f84",
+    "retrain_time_s": 1.2506,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 56,
+    "edge": [
+      45820,
+      52781
+    ],
+    "shard_id": 17,
+    "hash_before": "5076383bf42efc586ddf0bb9820a215858eec3cd9038a66197a26d7f4c934a36",
+    "hash_after": "918d40f28f036e8202ac983821f6febb2e1b178a0a4d6961bb30424ce25897d4",
+    "retrain_time_s": 0.5506,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 57,
+    "edge": [
+      15003,
+      52538
+    ],
+    "shard_id": 5,
+    "hash_before": "464f1aea5073f4d184359597b59fbd6a4c6b470f5aaa597931abad92e5a3b9fc",
+    "hash_after": "553966117f587c57f6be1fd199ffc3aa3575a6c5a796dd702c388a5391762147",
+    "retrain_time_s": 0.7655,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 58,
+    "edge": [
+      49977,
+      52758
+    ],
+    "shard_id": 19,
+    "hash_before": "6bfea196f10981729bd1288c9235f59f354e3c8bae3a1124483d35ed991db76e",
+    "hash_after": "f7378b5008119ab7589224ebf9e49dc64eecf860384c8a7c4c78630ee79fa7cd",
+    "retrain_time_s": 0.7824,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 59,
+    "edge": [
+      49542,
+      52589
+    ],
+    "shard_id": 18,
+    "hash_before": "93fb2dbc2798dff683169bdb76a703a19e42e99221babbf3485f6a5406b2156e",
+    "hash_after": "e7083a01b9a95e6ba8fba92f0e6bfd2fc39b5450c525f52d452ca6bd80b4f22f",
+    "retrain_time_s": 0.5024,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 60,
+    "edge": [
+      42262,
+      52574
+    ],
+    "shard_id": 16,
+    "hash_before": "15d1fd3d7ce6634968ec2e79de0b3abeaaae084e9ff1b7f54e3680aeb3f25fee",
+    "hash_after": "8b5cd8b1c868060081a4681e70ede186b294175e5433bfcb8e9861eabac51591",
+    "retrain_time_s": 0.7857,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 61,
+    "edge": [
+      33308,
+      52792
+    ],
+    "shard_id": 12,
+    "hash_before": "94d58c12bd4fce5d5cf086693608f22a64c239f74a394afaaea08f6c66dd9ccb",
+    "hash_after": "44c6cb93bf0d3082b465fcaceb230f10bba36f2f6a5afed7fe7416fb2feb81c3",
+    "retrain_time_s": 1.3514,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 62,
+    "edge": [
+      47506,
+      52554
+    ],
+    "shard_id": 18,
+    "hash_before": "e7083a01b9a95e6ba8fba92f0e6bfd2fc39b5450c525f52d452ca6bd80b4f22f",
+    "hash_after": "ec913d7eb288795d026cf8dc8d9de5962d11a3b146c147bce0264be2bc2efef7",
+    "retrain_time_s": 0.6294,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 63,
+    "edge": [
+      603,
+      52784
+    ],
+    "shard_id": 0,
+    "hash_before": "6f8d98755215e38b052455bb1bbcc00d8e8dbbb6e84c2740902fbc58d30b822f",
+    "hash_after": "8f9f9bfd450595766c4d8d2235a9031865a9a978902357a817c89e078d001755",
+    "retrain_time_s": 0.514,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 64,
+    "edge": [
+      25324,
+      52551
+    ],
+    "shard_id": 9,
+    "hash_before": "b6879fb1f539f2dd2363460a878777231b63e118f1b4a8d73aaf413af6ebbf43",
+    "hash_after": "1a7f991fa981d7e26013b3108b5b0e72eb83ba1648d397b3dd4ab12cf9a6f0ae",
+    "retrain_time_s": 0.6581,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 65,
+    "edge": [
+      21885,
+      52542
+    ],
+    "shard_id": 8,
+    "hash_before": "776dc54c3b28d264cca06e2511513cdd0dbd8707a6060004674d4a474aec39a7",
+    "hash_after": "6f1a8bf3b564997f04f5303e64f6d8450c594832844364a854be0a7233d27233",
+    "retrain_time_s": 1.4275,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 66,
+    "edge": [
+      4345,
+      52777
+    ],
+    "shard_id": 1,
+    "hash_before": "94d7fb056a655fa42a276610127b4a737caea1c68ac5fb831660c985a71a98ce",
+    "hash_after": "8c55f8efb668a7eece265f580f1b5ce0fa3b7184f23a29d2d72263031f56d70b",
+    "retrain_time_s": 0.7918,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 67,
+    "edge": [
+      3044,
+      52590
+    ],
+    "shard_id": 1,
+    "hash_before": "8c55f8efb668a7eece265f580f1b5ce0fa3b7184f23a29d2d72263031f56d70b",
+    "hash_after": "cb91663451a3cba1f1875810d0940af6ad5089416345021eadd1e74a3c4554ec",
+    "retrain_time_s": 0.5118,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 68,
+    "edge": [
+      50017,
+      52724
+    ],
+    "shard_id": 19,
+    "hash_before": "f7378b5008119ab7589224ebf9e49dc64eecf860384c8a7c4c78630ee79fa7cd",
+    "hash_after": "93182943fe064f6ae4e8e7a2028ba4a2f1f5ad3bc188d174a397e3e6ee31e981",
+    "retrain_time_s": 0.7451,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 69,
+    "edge": [
+      36320,
+      52551
+    ],
+    "shard_id": 13,
+    "hash_before": "5d98356597da1224987664a29f4af964f7414e7e54fcbd816676d9e1bd351401",
+    "hash_after": "393ef0909b45cdad047e65134485be3592cb850f5b60ba0576179690dc59e173",
+    "retrain_time_s": 0.9911,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 70,
+    "edge": [
+      823,
+      52763
+    ],
+    "shard_id": 0,
+    "hash_before": "8f9f9bfd450595766c4d8d2235a9031865a9a978902357a817c89e078d001755",
+    "hash_after": "0590ed58c46670640b115ba5c90add740887024e36842a0a67e804ec0d1c1432",
+    "retrain_time_s": 0.5799,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 71,
+    "edge": [
+      2830,
+      52740
+    ],
+    "shard_id": 1,
+    "hash_before": "cb91663451a3cba1f1875810d0940af6ad5089416345021eadd1e74a3c4554ec",
+    "hash_after": "47c0cd521da75fcb1dafa893690dd270dbfedbd90c8a3d1b025f55947c45227a",
+    "retrain_time_s": 0.8216,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 72,
+    "edge": [
+      48975,
+      52634
+    ],
+    "shard_id": 18,
+    "hash_before": "ec913d7eb288795d026cf8dc8d9de5962d11a3b146c147bce0264be2bc2efef7",
+    "hash_after": "094dc42437e11aa288acdc9405eace40088e4352f2f08eb94bbbf1c3fc086ad4",
+    "retrain_time_s": 0.431,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 73,
+    "edge": [
+      23282,
+      52488
+    ],
+    "shard_id": 8,
+    "hash_before": "6f1a8bf3b564997f04f5303e64f6d8450c594832844364a854be0a7233d27233",
+    "hash_after": "d38a4b5ce8d547a122a610b7bfa89ca15352aedf78f40d70605bbe5d83425b2c",
+    "retrain_time_s": 1.1276,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 74,
+    "edge": [
+      18775,
+      52928
+    ],
+    "shard_id": 7,
+    "hash_before": "17fc9aee8813d530b2fdbbd0267f9fdeff9aa08fcc39d7cf10cf374b193de416",
+    "hash_after": "75195e353180b96e700b7d02fa81382eab591290ff3196addfb58aac9fa533c9",
+    "retrain_time_s": 0.5696,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 75,
+    "edge": [
+      44349,
+      52522
+    ],
+    "shard_id": 16,
+    "hash_before": "8b5cd8b1c868060081a4681e70ede186b294175e5433bfcb8e9861eabac51591",
+    "hash_after": "d67156e9c691624ff8fc83af9e32551b5084cf93319a94f97d16dea4f64790cc",
+    "retrain_time_s": 0.8297,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 76,
+    "edge": [
+      29683,
+      52536
+    ],
+    "shard_id": 11,
+    "hash_before": "28e4a880523bf1b19f6e92f5e0306c7b22b641a209255bbd992e3f36e124d584",
+    "hash_after": "94c90d0ac9265e09293c705296177950c4e25cf3fc3346ca0206b2d377cbbf06",
+    "retrain_time_s": 0.8027,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 77,
+    "edge": [
+      17596,
+      52573
+    ],
+    "shard_id": 6,
+    "hash_before": "7d0c0663ee3d5628ba0dfa3259ccc527c891a97f0d11c125be02bae7b5564f84",
+    "hash_after": "744792333494d6347478eaa710421594ef020e98e4c9fcfdc79000f2ed63fa6d",
+    "retrain_time_s": 1.2815,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 78,
+    "edge": [
+      30599,
+      52515
+    ],
+    "shard_id": 11,
+    "hash_before": "94c90d0ac9265e09293c705296177950c4e25cf3fc3346ca0206b2d377cbbf06",
+    "hash_after": "1477ca087765e4c4eac4063a36c611b325c541b6d2b3095ad2ffd2a12f5f9e90",
+    "retrain_time_s": 0.6891,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 79,
+    "edge": [
+      29721,
+      52536
+    ],
+    "shard_id": 11,
+    "hash_before": "1477ca087765e4c4eac4063a36c611b325c541b6d2b3095ad2ffd2a12f5f9e90",
+    "hash_after": "f2778808d8df32bab2f0ce5f119383bcd2dee4fcd0e6e3c246c6d318b8a368fa",
+    "retrain_time_s": 0.5792,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 80,
+    "edge": [
+      5075,
+      52562
+    ],
+    "shard_id": 1,
+    "hash_before": "47c0cd521da75fcb1dafa893690dd270dbfedbd90c8a3d1b025f55947c45227a",
+    "hash_after": "0c417ebe8930a3f154a0f33f8b8d74773bba763dc184c77cf90c5c4317b64331",
+    "retrain_time_s": 0.8082,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 81,
+    "edge": [
+      44465,
+      52755
+    ],
+    "shard_id": 16,
+    "hash_before": "d67156e9c691624ff8fc83af9e32551b5084cf93319a94f97d16dea4f64790cc",
+    "hash_after": "beed70dc9e8f1af8d798699d0bbabaa48de49c2d72baec63af11446e426f20fc",
+    "retrain_time_s": 1.4385,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 82,
+    "edge": [
+      10002,
+      52745
+    ],
+    "shard_id": 3,
+    "hash_before": "0f304b5db4b72e308674cc3b66400152082e01874a34d3b45ac7335a7f270159",
+    "hash_after": "3b7e9fb726f60337b5fddc31dbb34d4e8ddd76b7fba3eed015c53dc6b966ef3a",
+    "retrain_time_s": 0.6506,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 83,
+    "edge": [
+      28331,
+      52940
+    ],
+    "shard_id": 10,
+    "hash_before": "2307f65c3fcc61544fe5018414a428dcfa579128594116c45813336dfff1ac9a",
+    "hash_after": "9a7251b2b2e8ced6f54d488df172d4f015ca64b63d7c11f73e0940fa97db7916",
+    "retrain_time_s": 0.7699,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 84,
+    "edge": [
+      38773,
+      52720
+    ],
+    "shard_id": 14,
+    "hash_before": "f617a16864eada5ddc7db10e2c7451051289a81ee1adb5d41872d5a0c240185f",
+    "hash_after": "141550fb8234d30cb1e6191ffed86f149538660166a17128adcc0ff82214b591",
+    "retrain_time_s": 0.4324,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 85,
+    "edge": [
+      34412,
+      52707
+    ],
+    "shard_id": 13,
+    "hash_before": "393ef0909b45cdad047e65134485be3592cb850f5b60ba0576179690dc59e173",
+    "hash_after": "4ec52226bfe2e2205f103db55e4922c6744de8025f798db192e662230e280f7b",
+    "retrain_time_s": 0.5818,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 86,
+    "edge": [
+      30523,
+      52823
+    ],
+    "shard_id": 11,
+    "hash_before": "f2778808d8df32bab2f0ce5f119383bcd2dee4fcd0e6e3c246c6d318b8a368fa",
+    "hash_after": "309a91ac902a7c6b07a364f3cab5689a19cd36c2224483d73d56aa23db47891b",
+    "retrain_time_s": 0.6967,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 87,
+    "edge": [
+      13675,
+      52561
+    ],
+    "shard_id": 5,
+    "hash_before": "553966117f587c57f6be1fd199ffc3aa3575a6c5a796dd702c388a5391762147",
+    "hash_after": "17f4352e70dabd9fdfb7b2d828cc9a350c67f552d8b0d2d70e1665dccf9c4557",
+    "retrain_time_s": 0.4518,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 88,
+    "edge": [
+      50629,
+      52587
+    ],
+    "shard_id": 19,
+    "hash_before": "93182943fe064f6ae4e8e7a2028ba4a2f1f5ad3bc188d174a397e3e6ee31e981",
+    "hash_after": "0f62ae5dc754abeee698d3918091451cb0a37090bb59949f855cbf03e950398d",
+    "retrain_time_s": 0.4825,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 89,
+    "edge": [
+      14403,
+      52762
+    ],
+    "shard_id": 5,
+    "hash_before": "17f4352e70dabd9fdfb7b2d828cc9a350c67f552d8b0d2d70e1665dccf9c4557",
+    "hash_after": "d00bde268379044bec2d1ded1b4b14ce9b00725b80d5f49a0a19f18eab899d12",
+    "retrain_time_s": 0.4824,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 90,
+    "edge": [
+      34267,
+      52762
+    ],
+    "shard_id": 13,
+    "hash_before": "4ec52226bfe2e2205f103db55e4922c6744de8025f798db192e662230e280f7b",
+    "hash_after": "b0f0d8d559f00e550b07e7e1b5d17f83ab5913fcee02c02f1ca36704c9194750",
+    "retrain_time_s": 0.5759,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 91,
+    "edge": [
+      42182,
+      52692
+    ],
+    "shard_id": 16,
+    "hash_before": "beed70dc9e8f1af8d798699d0bbabaa48de49c2d72baec63af11446e426f20fc",
+    "hash_after": "b5d4c206c2cff02960fd01253e1461e3d48b9d5b4cb8d23ce47b6dba517d0f56",
+    "retrain_time_s": 0.9827,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 92,
+    "edge": [
+      3297,
+      52784
+    ],
+    "shard_id": 1,
+    "hash_before": "0c417ebe8930a3f154a0f33f8b8d74773bba763dc184c77cf90c5c4317b64331",
+    "hash_after": "19435fd569fea9ae0e7bdd08f630f80298f366e177506e9a1d6bd1adbeb61b06",
+    "retrain_time_s": 0.9223,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 93,
+    "edge": [
+      356,
+      52765
+    ],
+    "shard_id": 0,
+    "hash_before": "0590ed58c46670640b115ba5c90add740887024e36842a0a67e804ec0d1c1432",
+    "hash_after": "2c9f3c98a08678fc75b736aa889a7340c6e9b9bc09286cb70e0b913efea9d8ee",
+    "retrain_time_s": 0.495,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 94,
+    "edge": [
+      16907,
+      52737
+    ],
+    "shard_id": 6,
+    "hash_before": "744792333494d6347478eaa710421594ef020e98e4c9fcfdc79000f2ed63fa6d",
+    "hash_after": "fe7f50a3b62888b33e38ec09319ede751dbb25ff2e72c466b38e7f20dad80762",
+    "retrain_time_s": 0.48,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 95,
+    "edge": [
+      5665,
+      52631
+    ],
+    "shard_id": 2,
+    "hash_before": "a8f0ca2369eca0e15a864f0642c3df17e4344596cdc5bb43b2ddf9c60b6fc8bc",
+    "hash_after": "07acc0b0b488c36adc99fbfa6312bf7a318bdad8d55fd9c8b81606278d3fbd65",
+    "retrain_time_s": 0.4144,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 96,
+    "edge": [
+      18387,
+      52653
+    ],
+    "shard_id": 7,
+    "hash_before": "75195e353180b96e700b7d02fa81382eab591290ff3196addfb58aac9fa533c9",
+    "hash_after": "5985af9ca4a3e30ae5202c9a220456d976d83666f6dbe8b1ca9afdcb99f024b8",
+    "retrain_time_s": 1.0445,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 97,
+    "edge": [
+      13953,
+      52567
+    ],
+    "shard_id": 5,
+    "hash_before": "d00bde268379044bec2d1ded1b4b14ce9b00725b80d5f49a0a19f18eab899d12",
+    "hash_after": "d9fb24a51e9daf772911d33ff732207ca4ef5e2e57c845635592a328f6f0b5b4",
+    "retrain_time_s": 0.6338,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 98,
+    "edge": [
+      7289,
+      52675
+    ],
+    "shard_id": 2,
+    "hash_before": "07acc0b0b488c36adc99fbfa6312bf7a318bdad8d55fd9c8b81606278d3fbd65",
+    "hash_after": "e45c850c802899027ddac5318f099cde0ef04c9c8feab1814b99abb5cf592a71",
+    "retrain_time_s": 0.3535,
+    "strategy": "Entity"
+  },
+  {
+    "deletion_id": 99,
+    "edge": [
+      17926,
+      52715
+    ],
+    "shard_id": 6,
+    "hash_before": "fe7f50a3b62888b33e38ec09319ede751dbb25ff2e72c466b38e7f20dad80762",
+    "hash_after": "9754ceae5c95c945aed77a6c91bf2616f5b8a5c91a167e5405ba59a29f147d40",
+    "retrain_time_s": 0.6613,
+    "strategy": "Entity"
+  }
+]

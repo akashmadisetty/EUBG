@@ -1,0 +1,12 @@
+{
+  "deletion_id": 66,
+  "edge": [
+    4345,
+    52777
+  ],
+  "shard_id": 3,
+  "hash_before": "29eba22ac04b78f44a7faa5553e362177eef821d507992ffbbb2a1f2ca84c079",
+  "hash_after": "3b04e6cb2fc8ee032997b32398d3452cdab05dfc37ebd8140d0796018408cbac",
+  "retrain_time_s": 0.4452,
+  "strategy": "Community"
+}

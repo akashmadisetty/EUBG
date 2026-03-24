@@ -1,0 +1,12 @@
+{
+  "deletion_id": 74,
+  "edge": [
+    18775,
+    52928
+  ],
+  "shard_id": 2,
+  "hash_before": "63d7c93ee52dc7a3c5dad716af2512ae0b694c36f5695727dd761170a8667aaf",
+  "hash_after": "e6c8283879f7e7097ffdb9b0802241875f32d3faa4a5d94bac4e089b798eee96",
+  "retrain_time_s": 0.4023,
+  "strategy": "Similarity"
+}
