@@ -5,8 +5,8 @@
     52829
   ],
   "shard_id": "global",
-  "hash_before": "a17f2a877354611108665213a85990425c9046c0fd903e2f42712ac86408a498",
-  "hash_after": "4db44131a6d89e02c343e1e23ec94ba22c0ab87c6dc7b0fdc817f7b39a598b61",
-  "avg_time_per_del_s": 0.00014,
+  "hash_before": "ee4ee2f17e34b34192c33e6c320bdf531189a2014c46689ff212e1bc4dab7399",
+  "hash_after": "979f888df570821ea1640fe3340f208a60f48393c45cd44b11ce84f40450c6cd",
+  "avg_time_per_del_s": 0.000859,
   "strategy": "GradientAscent"
 }

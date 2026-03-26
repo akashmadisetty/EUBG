@@ -6,9 +6,9 @@
       52731
     ],
     "shard_id": 7,
-    "hash_before": "b133283e99e38fb25f8406c80851c941a7d90a83f154c4c2f9cd25740548cd91",
-    "hash_after": "9be4ed8f63b57d08c44b51e7768acdc8bc3026533b02fa504a47d15c077dcd8a",
-    "retrain_time_s": 1.1547,
+    "hash_before": "37f0914d4ec73de13b1aaeb870f049039562120c50dec666a2906a40c8ec4a85",
+    "hash_after": "92f4b9b7c3cd75400931a01cc50fc0029a1529874cbf3fb8c2ec5e4bf3a543ab",
+    "retrain_time_s": 0.551,
     "strategy": "Random"
   },
   {
@@ -18,9 +18,9 @@
       52626
     ],
     "shard_id": 4,
-    "hash_before": "d21f28c13d37dd44b14eb295af97226d9c4f2ad0b8223b305ac583a0829f7584",
-    "hash_after": "2c909e69e5c9720552189c756743cbe86714204ddadd13afadf552d5ff5542a1",
-    "retrain_time_s": 0.7216,
+    "hash_before": "1f4d02b8e12d44e28acb93faf3c29722b0f7bdb718c3701ce8adeb60b0b78e91",
+    "hash_after": "32c558581328e8dc13775ceb0f4ff7840bbc7ca6fa25fe07106a845ea807bc77",
+    "retrain_time_s": 0.652,
     "strategy": "Random"
   },
   {
@@ -30,9 +30,9 @@
       52532
     ],
     "shard_id": 8,
-    "hash_before": "3a7e75eebc4feabf89bcd7f1b44bee2967b7934034afccc445952a9ff4d18fc0",
-    "hash_after": "0339946ed55be0b94b3c8f7c98552f3cb73deabd382ae3447c7c82d62c32b55c",
-    "retrain_time_s": 0.6506,
+    "hash_before": "df4c7c0faa75f213234a9a2479b368e41101066217b8dec67bf8aea133e30b58",
+    "hash_after": "acd212a1e3b263596085693c1960267e7b4d39f7cd640077c84512a648f02df4",
+    "retrain_time_s": 0.4511,
     "strategy": "Random"
   },
   {
@@ -42,9 +42,9 @@
       52539
     ],
     "shard_id": 5,
-    "hash_before": "70036e1a4638c4bdef885563a8691f60bd5987898b0f7da77b3bd00bc1583042",
-    "hash_after": "0f7eda1e41b18cee5f5db2920259d68293e80a74f8a639a138df89f59b5fc0be",
-    "retrain_time_s": 1.1758,
+    "hash_before": "662f15eacbba76b4a4aa3930b2d82224ec7623e56f9961aa7bdc793c506fc88a",
+    "hash_after": "c0918ddd31d952b2dde84f625a35fa96c15be7174b0e7b4756deda5463ebd334",
+    "retrain_time_s": 1.0662,
     "strategy": "Random"
   },
   {
@@ -54,9 +54,9 @@
       52543
     ],
     "shard_id": 4,
-    "hash_before": "2c909e69e5c9720552189c756743cbe86714204ddadd13afadf552d5ff5542a1",
-    "hash_after": "a3056b9b625c9b33e7754a7f1b50f7dc25e89e3ccbccaa43e2c498bb7db35b41",
-    "retrain_time_s": 1.4166,
+    "hash_before": "32c558581328e8dc13775ceb0f4ff7840bbc7ca6fa25fe07106a845ea807bc77",
+    "hash_after": "80c54f2f901ea83ed94b975efc4c16d34ee7ea7e61cd11f7e4fa9de790ad4bc1",
+    "retrain_time_s": 0.6518,
     "strategy": "Random"
   },
   {
@@ -66,9 +66,9 @@
       52527
     ],
     "shard_id": 10,
-    "hash_before": "0083f46b4081b85a1810a4a6261739c59ff9c82aa5cf9ab3a0194cf9e8c7ffe3",
-    "hash_after": "009d3b74fa8285ce7c5ca6480ce2a0106ffcfb4c952a2ef5c101ff20e6bbf6b4",
-    "retrain_time_s": 0.7539,
+    "hash_before": "fb53d8b7a97498692ed72cdeb09c79d0a78e78d7a87783554e02b7a2f85d0b4b",
+    "hash_after": "f9b69904cfbfb55ca18924c6bc3b22351a9a07bb85eafec1772a71579fecf571",
+    "retrain_time_s": 0.5508,
     "strategy": "Random"
   },
   {
@@ -78,9 +78,9 @@
       52886
     ],
     "shard_id": 13,
-    "hash_before": "d88975b959bf1c2968ce379a1a0443db3c6070245b520202953a5da1922f4dd8",
-    "hash_after": "7cd136596b1eefa8d693f133fa912fddc6c05755faf976114eb592f091f2f017",
-    "retrain_time_s": 0.5702,
+    "hash_before": "50948182fdf71a44eecaee7ee6d6e853771d09b9cf22d86f3e636224e294735f",
+    "hash_after": "23c2e199b2b245ac8644e7356b26777a2d5a3cfdc4a5601a27f183c711356da5",
+    "retrain_time_s": 1.421,
     "strategy": "Random"
   },
   {
@@ -90,9 +90,9 @@
       52734
     ],
     "shard_id": 15,
-    "hash_before": "aab2e141a483cefdd400b9d21980e4eac88783cdaefffe88a953c0f8b462c47e",
-    "hash_after": "a8f918a8079ad9c4fd676ba7058b4d8935aa3a616c9bbb84f13d44614f58acdd",
-    "retrain_time_s": 1.4142,
+    "hash_before": "17aab52042bf98c5ea6e8605600c2c472648dad6bd9fd30e3ecd0ed6c080cde8",
+    "hash_after": "b2564a886cc92a2ab62fb317d988ab4a66b46581919b21c6f15abb4fae8b35c2",
+    "retrain_time_s": 0.9895,
     "strategy": "Random"
   },
   {
@@ -102,9 +102,9 @@
       52744
     ],
     "shard_id": 15,
-    "hash_before": "a8f918a8079ad9c4fd676ba7058b4d8935aa3a616c9bbb84f13d44614f58acdd",
-    "hash_after": "447245f95698ee8af9f2cf9b9832594e552bb42c9e8f5a72ff023e84e6f104e2",
-    "retrain_time_s": 1.4124,
+    "hash_before": "b2564a886cc92a2ab62fb317d988ab4a66b46581919b21c6f15abb4fae8b35c2",
+    "hash_after": "8eac1e9122d55ebd82d2b58151585d941ebf60097ebd952496b42623a2e6942f",
+    "retrain_time_s": 0.8873,
     "strategy": "Random"
   },
   {
@@ -114,9 +114,9 @@
       52552
     ],
     "shard_id": 14,
-    "hash_before": "5a7fafb1c978d246f28036102c624fb210ffcb07e2250d3ed0ab81b7a4f64b4b",
-    "hash_after": "f16e45e9dd77d060ffc56b730f6bbc0fbdcd2a2d2fcfd6bea7b4b1b2fbe89e3f",
-    "retrain_time_s": 0.6324,
+    "hash_before": "e46c6a3c69fa6ac6dee630577cab2f4f0b5b2f2978a02aec2de671ac5cd0e664",
+    "hash_after": "3b0762490093cadc8abc0dea3a7f95926398af0c5401eb0c94dd4b0fc505cef9",
+    "retrain_time_s": 0.8654,
     "strategy": "Random"
   },
   {
@@ -126,9 +126,9 @@
       52566
     ],
     "shard_id": 6,
-    "hash_before": "4c7fbd206322d5b3ee53ec3d1aa54bcf473e29bb4342195bac78ba2d8d8ed93d",
-    "hash_after": "b952366c804cbc3ccef460443362e147d11af90346f3d5572391fad411244997",
-    "retrain_time_s": 0.589,
+    "hash_before": "dd4ca78a2eef48bba478957d8922a0798b46da61fbd0b94b6f34c8050306c3f8",
+    "hash_after": "5c3943d670972c280676e11f15a672ab581f64b503d897f6dec73763c6b6ddfc",
+    "retrain_time_s": 0.6433,
     "strategy": "Random"
   },
   {
@@ -138,9 +138,9 @@
       52565
     ],
     "shard_id": 3,
-    "hash_before": "0bf269b8dc02f2864dc5700ed03f507d214919638996e984bfc8a3bb604bc1af",
-    "hash_after": "17472f6b1645371880e7163ec597057be8e0b856309bf5218f1914ca4ffdcd38",
-    "retrain_time_s": 1.413,
+    "hash_before": "d3e3fbfa7f37ee4eac96af8a2e1b4d06f022781ee814a9f27bbe4eb6ae5a5fc6",
+    "hash_after": "773470d2fed531f953e27a0ea53531567d5147497eb34346b71a68c328d80b74",
+    "retrain_time_s": 1.1835,
     "strategy": "Random"
   },
   {
@@ -150,9 +150,9 @@
       52513
     ],
     "shard_id": 10,
-    "hash_before": "009d3b74fa8285ce7c5ca6480ce2a0106ffcfb4c952a2ef5c101ff20e6bbf6b4",
-    "hash_after": "25f2a0e319957bd9d986c1f70f410bf0d64e8fc0d1a006544862316dded13198",
-    "retrain_time_s": 0.9841,
+    "hash_before": "f9b69904cfbfb55ca18924c6bc3b22351a9a07bb85eafec1772a71579fecf571",
+    "hash_after": "232dc511ebb15016feb94626e202c30e1ad86fc746dd51bf91d40d4f1de1861e",
+    "retrain_time_s": 0.5016,
     "strategy": "Random"
   },
   {
@@ -162,9 +162,9 @@
       52532
     ],
     "shard_id": 5,
-    "hash_before": "0f7eda1e41b18cee5f5db2920259d68293e80a74f8a639a138df89f59b5fc0be",
-    "hash_after": "cf6c0163bb009d1de4ac5c6fd453d632cc634384554b458853da80b732faa624",
-    "retrain_time_s": 0.5277,
+    "hash_before": "c0918ddd31d952b2dde84f625a35fa96c15be7174b0e7b4756deda5463ebd334",
+    "hash_after": "f5346806acb62d679efa2f64fa1a34be0cc4ea704f7d7c1be74fc0ff4454e43b",
+    "retrain_time_s": 1.4171,
     "strategy": "Random"
   },
   {
@@ -174,9 +174,9 @@
       52724
     ],
     "shard_id": 9,
-    "hash_before": "14e46b175db311565ae9e9bb25c4a7a1939ec5a8a23c6bc36ccfe24b7f3b36b9",
-    "hash_after": "1ce401975593b1420e4a53f0813f8d9c75026ff8532ac5992d11bacd981295cb",
-    "retrain_time_s": 0.7859,
+    "hash_before": "1ae9c6180c00256c7d79b0882bd701b34d30c3b2e3593e9d1baa52f92dd4279f",
+    "hash_after": "c0f568e32efd54328f702b1dac1fe3c19f9058aa788a27ec1891f7e138214c88",
+    "retrain_time_s": 0.8727,
     "strategy": "Random"
   },
   {
@@ -186,9 +186,9 @@
       52846
     ],
     "shard_id": 3,
-    "hash_before": "17472f6b1645371880e7163ec597057be8e0b856309bf5218f1914ca4ffdcd38",
-    "hash_after": "b83b56fe5cfaacbff8f2d5b47fbd0f2ab146adc94d64c3b42ca43f4561cc1eab",
-    "retrain_time_s": 1.4221,
+    "hash_before": "773470d2fed531f953e27a0ea53531567d5147497eb34346b71a68c328d80b74",
+    "hash_after": "a2d95a59e67ec1c5ece3c10b3b0cb7bf34099d76d50de3689a02760367e608c9",
+    "retrain_time_s": 1.3277,
     "strategy": "Random"
   },
   {
@@ -198,9 +198,9 @@
       52531
     ],
     "shard_id": 7,
-    "hash_before": "9be4ed8f63b57d08c44b51e7768acdc8bc3026533b02fa504a47d15c077dcd8a",
-    "hash_after": "af98e20e2b65db097344c15908efdd2bb202a30ddb547c96e73974466c841a87",
-    "retrain_time_s": 1.1497,
+    "hash_before": "92f4b9b7c3cd75400931a01cc50fc0029a1529874cbf3fb8c2ec5e4bf3a543ab",
+    "hash_after": "193985f3ed988e69834273c8879a53c6c0455ee8222488534ecba2f2b85383ef",
+    "retrain_time_s": 0.5722,
     "strategy": "Random"
   },
   {
@@ -210,9 +210,9 @@
       52660
     ],
     "shard_id": 18,
-    "hash_before": "7debaaa3628fbef5c29e587606254b8bc2f0f959c635c2386e3cab45e68b8573",
-    "hash_after": "a6f2edfc5fd697408f1b9d19cee112261a09fe9c031f400f59812dc28140708c",
-    "retrain_time_s": 0.7982,
+    "hash_before": "47c2c85608664cf681a93232de6dc04190ee3911960bd85e847e0b324627ecdb",
+    "hash_after": "21bb4ebb0fcd6e7dbf8a5eb726f6e3c9ef21fc27a74336dc146603cbbfa193d2",
+    "retrain_time_s": 0.6604,
     "strategy": "Random"
   },
   {
@@ -222,9 +222,9 @@
       52628
     ],
     "shard_id": 15,
-    "hash_before": "447245f95698ee8af9f2cf9b9832594e552bb42c9e8f5a72ff023e84e6f104e2",
-    "hash_after": "02d5ad6012d1605a579a9392255a2f570fe30e6db6044f4a5e5d0cd3ebef68e5",
-    "retrain_time_s": 0.625,
+    "hash_before": "8eac1e9122d55ebd82d2b58151585d941ebf60097ebd952496b42623a2e6942f",
+    "hash_after": "e19e3b6e999df0418de8978f07add44bbc93d69b551b663caf6de0cb4e79a8b7",
+    "retrain_time_s": 0.8873,
     "strategy": "Random"
   },
   {
@@ -234,9 +234,9 @@
       52793
     ],
     "shard_id": 17,
-    "hash_before": "eb2d6c2b1f9b16cd749463aa5cb9be68e46c164c296f82fe9156ef54640ae129",
-    "hash_after": "90b2811ce834a744e333ec9cc3c3c1bc2f4440e8d14872c72b298a7f3300e64c",
-    "retrain_time_s": 1.0934,
+    "hash_before": "eea606bbc2f4a35de7e8ce2e4a55ce565a3caa5513af79ccfa1c8e343b92b191",
+    "hash_after": "e8758d159219a65d560b3091d93406663e8183a90e943528cbba0a20de39b9c1",
+    "retrain_time_s": 0.5935,
     "strategy": "Random"
   },
   {
@@ -246,9 +246,9 @@
       52903
     ],
     "shard_id": 1,
-    "hash_before": "7c473e6b531461144aa799cf39ec7079af215164c7e6cd0e65b19b4b74f00ad1",
-    "hash_after": "8e39cd379069fd998a8003a6e643abb4b9ad308f15aa1d6268137bc603df3074",
-    "retrain_time_s": 0.8229,
+    "hash_before": "a58a21e5629c8cf68332ff34d0c27f89dca56baa279dd8f6d5b233600f7c921f",
+    "hash_after": "907f4664d09b7a645e3237dacb1979485a9124b4147722ac98191d4b1dac99c4",
+    "retrain_time_s": 0.9252,
     "strategy": "Random"
   },
   {
@@ -258,9 +258,9 @@
       52758
     ],
     "shard_id": 11,
-    "hash_before": "325c180bbcb89e136720fc589db25938aac413e19a305765499e9c854293f604",
-    "hash_after": "fd6194c2d149f9e98a1aa8b902254169c3f966abdfac02e4daf05b8308468906",
-    "retrain_time_s": 0.5557,
+    "hash_before": "73f05e0a6b8a566ec92b5c929a7aacf4f4d8a472aecdbde6f5345cb6e0647e28",
+    "hash_after": "8cf4a283f648f13d216085809d6ebba34973d5f92dce3361ac62960ff1052d16",
+    "retrain_time_s": 1.3351,
     "strategy": "Random"
   },
   {
@@ -270,9 +270,9 @@
       52924
     ],
     "shard_id": 14,
-    "hash_before": "f16e45e9dd77d060ffc56b730f6bbc0fbdcd2a2d2fcfd6bea7b4b1b2fbe89e3f",
-    "hash_after": "072bf30ddb438e5bf127f1df3f3fa644f4d2a3a57a7736213b922a40dc150911",
-    "retrain_time_s": 0.9236,
+    "hash_before": "3b0762490093cadc8abc0dea3a7f95926398af0c5401eb0c94dd4b0fc505cef9",
+    "hash_after": "152dc555214c25dc37247d63e997260af68141432ba508abb90cbb3bb53c96a5",
+    "retrain_time_s": 0.9192,
     "strategy": "Random"
   },
   {
@@ -282,9 +282,9 @@
       52778
     ],
     "shard_id": 3,
-    "hash_before": "b83b56fe5cfaacbff8f2d5b47fbd0f2ab146adc94d64c3b42ca43f4561cc1eab",
-    "hash_after": "4660d97b64ac337ada699a496626b0ac6a88a60467b6602ad0fd07b2bd6a7449",
-    "retrain_time_s": 0.7521,
+    "hash_before": "a2d95a59e67ec1c5ece3c10b3b0cb7bf34099d76d50de3689a02760367e608c9",
+    "hash_after": "13ae105ef39903eec067279fa8d350674f111f113a94c1751f8cd82925d3c94a",
+    "retrain_time_s": 1.1889,
     "strategy": "Random"
   },
   {
@@ -294,9 +294,9 @@
       52633
     ],
     "shard_id": 4,
-    "hash_before": "a3056b9b625c9b33e7754a7f1b50f7dc25e89e3ccbccaa43e2c498bb7db35b41",
-    "hash_after": "00030d8f28abad8ac3ee2d40ab6ffbfc82599c1e36dd8c08666ec1526375f371",
-    "retrain_time_s": 0.9724,
+    "hash_before": "80c54f2f901ea83ed94b975efc4c16d34ee7ea7e61cd11f7e4fa9de790ad4bc1",
+    "hash_after": "a260de6a9fd8fdff65223b9bd74d61a022a451f68494e94e3810958ae19360bc",
+    "retrain_time_s": 0.6454,
     "strategy": "Random"
   },
   {
@@ -306,9 +306,9 @@
       52591
     ],
     "shard_id": 19,
-    "hash_before": "207b159faad268a8631a36e38c99cf10b2566d55eac6de9b2a04c4757f0bc36f",
-    "hash_after": "4f150117e1f7d3eaac899883177647672275de754efcb4fc246374370321c8de",
-    "retrain_time_s": 1.0375,
+    "hash_before": "e6755b60dec71e88f91c4995bdd66e13d71d7f1a170eff8e4bce549f26c5f3d0",
+    "hash_after": "6d23b409114dd6500a4e074b696cf3249f74daea70a30952fbdd5f010d3d91db",
+    "retrain_time_s": 1.0235,
     "strategy": "Random"
   },
   {
@@ -318,9 +318,9 @@
       52621
     ],
     "shard_id": 15,
-    "hash_before": "02d5ad6012d1605a579a9392255a2f570fe30e6db6044f4a5e5d0cd3ebef68e5",
-    "hash_after": "c5ce08d45385e99a4cae6ea7cc5cdd46f395ea462e4d1ae640bb07cc9b96060e",
-    "retrain_time_s": 1.0832,
+    "hash_before": "e19e3b6e999df0418de8978f07add44bbc93d69b551b663caf6de0cb4e79a8b7",
+    "hash_after": "d0c1b2359377c9e8f9e5f84eb69ad0e1acdc57f46f0472f6e5b2f244ce88e64f",
+    "retrain_time_s": 0.9109,
     "strategy": "Random"
   },
   {
@@ -330,9 +330,9 @@
       52609
     ],
     "shard_id": 4,
-    "hash_before": "00030d8f28abad8ac3ee2d40ab6ffbfc82599c1e36dd8c08666ec1526375f371",
-    "hash_after": "b4f5003cdc43b2452d412b0a5471f89aeb21e91dbb0d66ba4a6217a90f1e402b",
-    "retrain_time_s": 0.9779,
+    "hash_before": "a260de6a9fd8fdff65223b9bd74d61a022a451f68494e94e3810958ae19360bc",
+    "hash_after": "51403ab522589870f7fbfdfda6aec2072d426ad0f0af8160b41dc53d9fd9f9c2",
+    "retrain_time_s": 0.7139,
     "strategy": "Random"
   },
   {
@@ -342,9 +342,9 @@
       52829
     ],
     "shard_id": 14,
-    "hash_before": "072bf30ddb438e5bf127f1df3f3fa644f4d2a3a57a7736213b922a40dc150911",
-    "hash_after": "c21de5bd06fa5d85277fd403bd68f49ea358e2322d2503f43201e369bcf21ba8",
-    "retrain_time_s": 0.605,
+    "hash_before": "152dc555214c25dc37247d63e997260af68141432ba508abb90cbb3bb53c96a5",
+    "hash_after": "f7839a40529405a957f276b49b465f0acc1161ca7e07fff5c371f9de220e19ce",
+    "retrain_time_s": 1.028,
     "strategy": "Random"
   },
   {
@@ -354,9 +354,9 @@
       52663
     ],
     "shard_id": 3,
-    "hash_before": "4660d97b64ac337ada699a496626b0ac6a88a60467b6602ad0fd07b2bd6a7449",
-    "hash_after": "48adff6cb91bcdbef35f9e831ca1ce9f9af30725fd18a6160e3ff2a3452f55c2",
-    "retrain_time_s": 1.4089,
+    "hash_before": "13ae105ef39903eec067279fa8d350674f111f113a94c1751f8cd82925d3c94a",
+    "hash_after": "1fb1bb42aa4571aa43c565c7b37789be7a009157fa03bacec27b1a644509bede",
+    "retrain_time_s": 1.4269,
     "strategy": "Random"
   },
   {
@@ -366,9 +366,9 @@
       52573
     ],
     "shard_id": 17,
-    "hash_before": "90b2811ce834a744e333ec9cc3c3c1bc2f4440e8d14872c72b298a7f3300e64c",
-    "hash_after": "00d0583700663c5ac369184b0b2bee6bccc2d34b18a3f6e23cf107abc1a22874",
-    "retrain_time_s": 1.412,
+    "hash_before": "e8758d159219a65d560b3091d93406663e8183a90e943528cbba0a20de39b9c1",
+    "hash_after": "d279e8d7a26ec5ca0377847d77102850390e190ae3a2466dfb89d448f4d1f3d1",
+    "retrain_time_s": 0.7522,
     "strategy": "Random"
   },
   {
@@ -378,9 +378,9 @@
       52496
     ],
     "shard_id": 5,
-    "hash_before": "cf6c0163bb009d1de4ac5c6fd453d632cc634384554b458853da80b732faa624",
-    "hash_after": "4009cc2f4bc4979feb803eba3b4017027f8ce320ddc1a41bc4ffff87b09c4fb2",
-    "retrain_time_s": 1.4273,
+    "hash_before": "f5346806acb62d679efa2f64fa1a34be0cc4ea704f7d7c1be74fc0ff4454e43b",
+    "hash_after": "b591f9297beb377d4df10c9793b4d440e0588e6f953f1067d6fb53f94b9a7870",
+    "retrain_time_s": 1.2313,
     "strategy": "Random"
   },
   {
@@ -390,9 +390,9 @@
       52740
     ],
     "shard_id": 9,
-    "hash_before": "1ce401975593b1420e4a53f0813f8d9c75026ff8532ac5992d11bacd981295cb",
-    "hash_after": "1067f901c058d72167c474b34bdb372f280c171bb1c47a22d4f85acebefaea82",
-    "retrain_time_s": 0.7086,
+    "hash_before": "c0f568e32efd54328f702b1dac1fe3c19f9058aa788a27ec1891f7e138214c88",
+    "hash_after": "6f0a52b9253287af750f970efabdcd38c7e2edac05d6f0bd97ef9c4fa5fa3259",
+    "retrain_time_s": 0.8087,
     "strategy": "Random"
   },
   {
@@ -402,9 +402,9 @@
       52720
     ],
     "shard_id": 3,
-    "hash_before": "48adff6cb91bcdbef35f9e831ca1ce9f9af30725fd18a6160e3ff2a3452f55c2",
-    "hash_after": "de8e472bbb52397b66123b112ef08b20fd655b2d79f308f63ebc3a8202cb71ac",
-    "retrain_time_s": 0.9122,
+    "hash_before": "1fb1bb42aa4571aa43c565c7b37789be7a009157fa03bacec27b1a644509bede",
+    "hash_after": "15dcc4a501f828f461e10f8567fe9d38cba6c6cd6ece83c632e3ef8dc464ff9e",
+    "retrain_time_s": 1.2934,
     "strategy": "Random"
   },
   {
@@ -414,9 +414,9 @@
       52609
     ],
     "shard_id": 11,
-    "hash_before": "fd6194c2d149f9e98a1aa8b902254169c3f966abdfac02e4daf05b8308468906",
-    "hash_after": "d2a3639bff360ad758d77f84602ea3e6648ae4b16f54a8dcc5259613f275c339",
-    "retrain_time_s": 0.5917,
+    "hash_before": "8cf4a283f648f13d216085809d6ebba34973d5f92dce3361ac62960ff1052d16",
+    "hash_after": "5ecae6730526f411015acbf59a5f7b004027c798bfd8e7df43826975d348d390",
+    "retrain_time_s": 1.1423,
     "strategy": "Random"
   },
   {
@@ -426,9 +426,9 @@
       52677
     ],
     "shard_id": 1,
-    "hash_before": "8e39cd379069fd998a8003a6e643abb4b9ad308f15aa1d6268137bc603df3074",
-    "hash_after": "3d1d68b8e048d0189c23ebb86d79abd8706cab7ae5d6c70fe9508e11db03f4a3",
-    "retrain_time_s": 1.422,
+    "hash_before": "907f4664d09b7a645e3237dacb1979485a9124b4147722ac98191d4b1dac99c4",
+    "hash_after": "a0b0496650c54b62fb4b20ff9bc702f6e90d05f977663373c0dc049c59a76084",
+    "retrain_time_s": 0.9098,
     "strategy": "Random"
   },
   {
@@ -438,9 +438,9 @@
       52532
     ],
     "shard_id": 16,
-    "hash_before": "924f5aa832214854d19c0187b91ddf016ed179573a442a25accf9f3d5cb7b44d",
-    "hash_after": "e7ef3c4fd2589adab7b3c29e7c9cb730a4c7c5d9a342e9a206d0954163f31d5e",
-    "retrain_time_s": 1.153,
+    "hash_before": "879900dbd8751e5232dcd935981a6f60c7d43983c84bc3746ed27209def748ae",
+    "hash_after": "1bad999eb3a2e120ce69bb6c04e9883215266dc4ac9b8b80712b24bf048f6116",
+    "retrain_time_s": 0.5728,
     "strategy": "Random"
   },
   {
@@ -450,9 +450,9 @@
       52784
     ],
     "shard_id": 7,
-    "hash_before": "af98e20e2b65db097344c15908efdd2bb202a30ddb547c96e73974466c841a87",
-    "hash_after": "b50b98179bf28e48ca9cd1c6754db24aa4e234ab0ac236aed1bb09ada52e8866",
-    "retrain_time_s": 1.4196,
+    "hash_before": "193985f3ed988e69834273c8879a53c6c0455ee8222488534ecba2f2b85383ef",
+    "hash_after": "b47b9b286c1b62ad711fb470af8b3ad30a4dec977ac2ddd3f3fdc85b0177b0a9",
+    "retrain_time_s": 0.606,
     "strategy": "Random"
   },
   {
@@ -462,9 +462,9 @@
       52906
     ],
     "shard_id": 3,
-    "hash_before": "de8e472bbb52397b66123b112ef08b20fd655b2d79f308f63ebc3a8202cb71ac",
-    "hash_after": "d9fb70d23c9b3ccf98df1971de9ef7638ba5b7a666adb237b82ee5fa5a604075",
-    "retrain_time_s": 0.8209,
+    "hash_before": "15dcc4a501f828f461e10f8567fe9d38cba6c6cd6ece83c632e3ef8dc464ff9e",
+    "hash_after": "ede50aed5f4e02a559ddca331a59f60beaa61813020a081629156130f05f5f2b",
+    "retrain_time_s": 1.1586,
     "strategy": "Random"
   },
   {
@@ -474,9 +474,9 @@
       52659
     ],
     "shard_id": 0,
-    "hash_before": "6ab9ac23b4dc815153d336543d25288149bd486fb2440dc15bdc2d9b8274d27b",
-    "hash_after": "3a6b3e8b0902d84aa6dda7519299ddb04bccb69b6ab6990cfc1eea484f04914d",
-    "retrain_time_s": 0.7306,
+    "hash_before": "11d56c68995c4a896a1c06a61ec78180e1ffed3b5009594677d569e8b8c742d5",
+    "hash_after": "70327bba138009c929cfec8b489b51aaa038e0c52282901b7e01e9c3dfa9c844",
+    "retrain_time_s": 0.6311,
     "strategy": "Random"
   },
   {
@@ -486,9 +486,9 @@
       52589
     ],
     "shard_id": 4,
-    "hash_before": "b4f5003cdc43b2452d412b0a5471f89aeb21e91dbb0d66ba4a6217a90f1e402b",
-    "hash_after": "41a2afc7705765ee25f7bdb92510fc1592d80a83eeabf90978d3ede2126c6e62",
-    "retrain_time_s": 0.6484,
+    "hash_before": "51403ab522589870f7fbfdfda6aec2072d426ad0f0af8160b41dc53d9fd9f9c2",
+    "hash_after": "379845e10fab7dbfd77d1c7ac003071baf3578b732da128f84242db16d91105f",
+    "retrain_time_s": 0.6483,
     "strategy": "Random"
   },
   {
@@ -498,9 +498,9 @@
       52844
     ],
     "shard_id": 2,
-    "hash_before": "8e31916290b76361d3da836e3e1ddbd8973c80bd39cb804797122e7b50fb0912",
-    "hash_after": "7567af01b7b35ea3b713779f41af4ebe6ca248c27dc1a2d48947283594f0855d",
-    "retrain_time_s": 1.4181,
+    "hash_before": "0f7339ffba305416349ff6aac8563acdbaf48ca6398095edeef866fccd8a096c",
+    "hash_after": "0baf1e7d6237814a8403a064fe0619f1e55fc7568253cefd6fd65fd5d7b01981",
+    "retrain_time_s": 1.4213,
     "strategy": "Random"
   },
   {
@@ -510,9 +510,9 @@
       52571
     ],
     "shard_id": 11,
-    "hash_before": "d2a3639bff360ad758d77f84602ea3e6648ae4b16f54a8dcc5259613f275c339",
-    "hash_after": "9ed3e31b492e9acbf1ff355fa13a9c0dac4587ab6862614bebfdcdac944dbd04",
-    "retrain_time_s": 0.6167,
+    "hash_before": "5ecae6730526f411015acbf59a5f7b004027c798bfd8e7df43826975d348d390",
+    "hash_after": "d4d40e20fac819c902562cbe7ce2caaa26dda097cb7207456c981a7fb0394f37",
+    "retrain_time_s": 1.3037,
     "strategy": "Random"
   },
   {
@@ -522,9 +522,9 @@
       52783
     ],
     "shard_id": 11,
-    "hash_before": "9ed3e31b492e9acbf1ff355fa13a9c0dac4587ab6862614bebfdcdac944dbd04",
-    "hash_after": "c1661aac935d61e14e7116e2a0a53b9b77b153d16666abbfcebab21a62d2507c",
-    "retrain_time_s": 1.3578,
+    "hash_before": "d4d40e20fac819c902562cbe7ce2caaa26dda097cb7207456c981a7fb0394f37",
+    "hash_after": "1f92ea3ceedd754acc242620f62425efd08546cfebd9baa0a72a8c290fba0a88",
+    "retrain_time_s": 1.2579,
     "strategy": "Random"
   },
   {
@@ -534,9 +534,9 @@
       52777
     ],
     "shard_id": 5,
-    "hash_before": "4009cc2f4bc4979feb803eba3b4017027f8ce320ddc1a41bc4ffff87b09c4fb2",
-    "hash_after": "247c166b7034c823e953ecb9c8b124350f31d7116e2fb049f6c6280243ee5d89",
-    "retrain_time_s": 1.4222,
+    "hash_before": "b591f9297beb377d4df10c9793b4d440e0588e6f953f1067d6fb53f94b9a7870",
+    "hash_after": "b7dc1a1464ceaba507b56a57bc8a6f8a2265181ac8b9c20be10ebe59671d4f27",
+    "retrain_time_s": 0.8603,
     "strategy": "Random"
   },
   {
@@ -546,9 +546,9 @@
       52830
     ],
     "shard_id": 17,
-    "hash_before": "00d0583700663c5ac369184b0b2bee6bccc2d34b18a3f6e23cf107abc1a22874",
-    "hash_after": "c4f87dea4c193c6fe9ef3159f3039a8b7d79be22e86a7d0d56df05ee46806766",
-    "retrain_time_s": 0.7621,
+    "hash_before": "d279e8d7a26ec5ca0377847d77102850390e190ae3a2466dfb89d448f4d1f3d1",
+    "hash_after": "e49926b84ea94c630059b401549f8aa0f78f998332569e28db0ec13f4606be00",
+    "retrain_time_s": 0.718,
     "strategy": "Random"
   },
   {
@@ -558,9 +558,9 @@
       52929
     ],
     "shard_id": 1,
-    "hash_before": "3d1d68b8e048d0189c23ebb86d79abd8706cab7ae5d6c70fe9508e11db03f4a3",
-    "hash_after": "9633cb8a8c88aa4b0a17ba3ab27c72b6d1d2b291d881df673ef521b9eeee55d9",
-    "retrain_time_s": 1.1738,
+    "hash_before": "a0b0496650c54b62fb4b20ff9bc702f6e90d05f977663373c0dc049c59a76084",
+    "hash_after": "b05a823a692fe11d79fe42d3eb82ac601ec1b280e78f2b106eb94cfbe9bc92fe",
+    "retrain_time_s": 0.9723,
     "strategy": "Random"
   },
   {
@@ -570,9 +570,9 @@
       52707
     ],
     "shard_id": 8,
-    "hash_before": "0339946ed55be0b94b3c8f7c98552f3cb73deabd382ae3447c7c82d62c32b55c",
-    "hash_after": "c1409dee38348749dd32e3e35831311c8471ea73ae8074d79b61fd99299496ed",
-    "retrain_time_s": 0.5656,
+    "hash_before": "acd212a1e3b263596085693c1960267e7b4d39f7cd640077c84512a648f02df4",
+    "hash_after": "14acf617415045ba2de42d0a21e9a58ce5f70ea224ad3e6d76ff6c509bc38c0b",
+    "retrain_time_s": 0.5211,
     "strategy": "Random"
   },
   {
@@ -582,9 +582,9 @@
       52778
     ],
     "shard_id": 16,
-    "hash_before": "e7ef3c4fd2589adab7b3c29e7c9cb730a4c7c5d9a342e9a206d0954163f31d5e",
-    "hash_after": "b9944a3fbd9aef610ea42b941943a1aaf80e225b7e46b50973e7becf7bac795e",
-    "retrain_time_s": 1.0479,
+    "hash_before": "1bad999eb3a2e120ce69bb6c04e9883215266dc4ac9b8b80712b24bf048f6116",
+    "hash_after": "0d1d5b83276fae8bff38a177c0165a3345c5f3ac9675ce8982ae6733b0fb0991",
+    "retrain_time_s": 0.6678,
     "strategy": "Random"
   },
   {
@@ -594,9 +594,9 @@
       52813
     ],
     "shard_id": 7,
-    "hash_before": "b50b98179bf28e48ca9cd1c6754db24aa4e234ab0ac236aed1bb09ada52e8866",
-    "hash_after": "ac28d3a04387ba5ea1277026834f5488835ca8182ea7b30761f309998102fbd4",
-    "retrain_time_s": 1.2716,
+    "hash_before": "b47b9b286c1b62ad711fb470af8b3ad30a4dec977ac2ddd3f3fdc85b0177b0a9",
+    "hash_after": "1a6dbb4b06ef538f56914d2bc601b7d6201eb2c822ab113202681fc9b345d179",
+    "retrain_time_s": 0.5606,
     "strategy": "Random"
   },
   {
@@ -606,9 +606,9 @@
       52501
     ],
     "shard_id": 10,
-    "hash_before": "25f2a0e319957bd9d986c1f70f410bf0d64e8fc0d1a006544862316dded13198",
-    "hash_after": "8483a4ab2ac8e53015b3c567e288c3d37ae7933875a970550976423b117d2584",
-    "retrain_time_s": 1.0675,
+    "hash_before": "232dc511ebb15016feb94626e202c30e1ad86fc746dd51bf91d40d4f1de1861e",
+    "hash_after": "868f16c2bb77ee496b8a4abe510735819440d78fa17ee311f5725120f239452b",
+    "retrain_time_s": 0.5826,
     "strategy": "Random"
   },
   {
@@ -618,9 +618,9 @@
       52610
     ],
     "shard_id": 11,
-    "hash_before": "c1661aac935d61e14e7116e2a0a53b9b77b153d16666abbfcebab21a62d2507c",
-    "hash_after": "003f86b15538cdcb187821d11d50bb1474626b59243b992111ba70878b74aabc",
-    "retrain_time_s": 1.4286,
+    "hash_before": "1f92ea3ceedd754acc242620f62425efd08546cfebd9baa0a72a8c290fba0a88",
+    "hash_after": "f7636acc555c1f835328676d47e042a1a15f66785dc6fa9f47d6dda6a2b2f3b8",
+    "retrain_time_s": 1.2484,
     "strategy": "Random"
   },
   {
@@ -630,9 +630,9 @@
       52573
     ],
     "shard_id": 10,
-    "hash_before": "8483a4ab2ac8e53015b3c567e288c3d37ae7933875a970550976423b117d2584",
-    "hash_after": "dde716e667d76dbbe9fb5668ce91bff9957c6ab87a4992522186625b6cd248c9",
-    "retrain_time_s": 0.7969,
+    "hash_before": "868f16c2bb77ee496b8a4abe510735819440d78fa17ee311f5725120f239452b",
+    "hash_after": "86502547304a0b0677d3cdd9d37bf23f12ca3f7adb0b0517414d1c4a74a0eea1",
+    "retrain_time_s": 0.556,
     "strategy": "Random"
   },
   {
@@ -642,9 +642,9 @@
       52866
     ],
     "shard_id": 10,
-    "hash_before": "dde716e667d76dbbe9fb5668ce91bff9957c6ab87a4992522186625b6cd248c9",
-    "hash_after": "bcfa3324c34143824b97e4e153fa6f4b782edbfc77d6aad290b62b56255fbbc8",
-    "retrain_time_s": 1.0128,
+    "hash_before": "86502547304a0b0677d3cdd9d37bf23f12ca3f7adb0b0517414d1c4a74a0eea1",
+    "hash_after": "9c097e92fa20181818a7c91691b7c2f87d3defe22b335329e5b560ed12a2e11d",
+    "retrain_time_s": 0.5764,
     "strategy": "Random"
   },
   {
@@ -654,9 +654,9 @@
       52704
     ],
     "shard_id": 7,
-    "hash_before": "ac28d3a04387ba5ea1277026834f5488835ca8182ea7b30761f309998102fbd4",
-    "hash_after": "fc2819f5bb2e96bbd1096a80510dc02fe4cfec9b895d6b967737f319dc9f6162",
-    "retrain_time_s": 1.3424,
+    "hash_before": "1a6dbb4b06ef538f56914d2bc601b7d6201eb2c822ab113202681fc9b345d179",
+    "hash_after": "a5d17aac39ccbbd8861487baae192b521cd0639b0cc7cd1f3e91b0024f7bd135",
+    "retrain_time_s": 0.5748,
     "strategy": "Random"
   },
   {
@@ -666,9 +666,9 @@
       52586
     ],
     "shard_id": 8,
-    "hash_before": "c1409dee38348749dd32e3e35831311c8471ea73ae8074d79b61fd99299496ed",
-    "hash_after": "7c59cef8d89b4963a58abf9cb52b7f06d2855a23bfd21966dff2c67286cc832d",
-    "retrain_time_s": 0.514,
+    "hash_before": "14acf617415045ba2de42d0a21e9a58ce5f70ea224ad3e6d76ff6c509bc38c0b",
+    "hash_after": "b458dc336157ed01e4fdcb41bdd96e473a80fc9720f4c8a928bdd178df5069e6",
+    "retrain_time_s": 0.6066,
     "strategy": "Random"
   },
   {
@@ -678,9 +678,9 @@
       52781
     ],
     "shard_id": 11,
-    "hash_before": "003f86b15538cdcb187821d11d50bb1474626b59243b992111ba70878b74aabc",
-    "hash_after": "aabb3872d4d264baba4404befb99ca81c1d047b057401d2b8bf928ba3ba9fe2d",
-    "retrain_time_s": 0.5773,
+    "hash_before": "f7636acc555c1f835328676d47e042a1a15f66785dc6fa9f47d6dda6a2b2f3b8",
+    "hash_after": "6f5a85bb47b66cc59ab495be6a97c3e5eda6cb4c66c6dd67bcfe8604ede9bd0d",
+    "retrain_time_s": 1.1239,
     "strategy": "Random"
   },
   {
@@ -690,9 +690,9 @@
       52538
     ],
     "shard_id": 10,
-    "hash_before": "bcfa3324c34143824b97e4e153fa6f4b782edbfc77d6aad290b62b56255fbbc8",
-    "hash_after": "3e32aab01b72c6794dacfcc85472a82867423ac8e448133e57bfe19af95cfc0a",
-    "retrain_time_s": 1.1575,
+    "hash_before": "9c097e92fa20181818a7c91691b7c2f87d3defe22b335329e5b560ed12a2e11d",
+    "hash_after": "b09abbfcb698f49583c5e00f41998e430cea0363bba3ef13802aba8a5a4e17f9",
+    "retrain_time_s": 0.5696,
     "strategy": "Random"
   },
   {
@@ -702,9 +702,9 @@
       52758
     ],
     "shard_id": 1,
-    "hash_before": "9633cb8a8c88aa4b0a17ba3ab27c72b6d1d2b291d881df673ef521b9eeee55d9",
-    "hash_after": "4b0de4fc9ef48019cab5ccec59b5c52a12fedb608d948ce71bcf794375cc2283",
-    "retrain_time_s": 0.7952,
+    "hash_before": "b05a823a692fe11d79fe42d3eb82ac601ec1b280e78f2b106eb94cfbe9bc92fe",
+    "hash_after": "40fe02263cdcd77ac1a698133e6255e999fc7f8c730d44e383931b96a6f60f5e",
+    "retrain_time_s": 1.0397,
     "strategy": "Random"
   },
   {
@@ -714,9 +714,9 @@
       52589
     ],
     "shard_id": 6,
-    "hash_before": "b952366c804cbc3ccef460443362e147d11af90346f3d5572391fad411244997",
-    "hash_after": "c508d6eddb253f7ee5360e84cf23d339adc44f4e823679c45623ffdc4a4cefe4",
-    "retrain_time_s": 0.8695,
+    "hash_before": "5c3943d670972c280676e11f15a672ab581f64b503d897f6dec73763c6b6ddfc",
+    "hash_after": "4b94f104a6de42eaf5e3d34c29e225faafd8a93d84b8f46dad58cb3a95b4c25c",
+    "retrain_time_s": 0.6906,
     "strategy": "Random"
   },
   {
@@ -726,9 +726,9 @@
       52574
     ],
     "shard_id": 19,
-    "hash_before": "4f150117e1f7d3eaac899883177647672275de754efcb4fc246374370321c8de",
-    "hash_after": "23937c4696d50c0920e657d47c63d83878dd0a6bdc8ea291ba01a296a19a06bd",
-    "retrain_time_s": 1.4344,
+    "hash_before": "6d23b409114dd6500a4e074b696cf3249f74daea70a30952fbdd5f010d3d91db",
+    "hash_after": "7ed94941e5a4c2369044dffdfbb9fd45922692b41316537e1fcc97bc403c080a",
+    "retrain_time_s": 0.9491,
     "strategy": "Random"
   },
   {
@@ -738,9 +738,9 @@
       52792
     ],
     "shard_id": 3,
-    "hash_before": "d9fb70d23c9b3ccf98df1971de9ef7638ba5b7a666adb237b82ee5fa5a604075",
-    "hash_after": "4c56b419eb84caa31c76c8f4bb42985bc140fbb3d41f3e8b7ee83019c1c33bb6",
-    "retrain_time_s": 0.6544,
+    "hash_before": "ede50aed5f4e02a559ddca331a59f60beaa61813020a081629156130f05f5f2b",
+    "hash_after": "36dbee7055ed88fc5b10bf91148caf819d64587cd94e23053747796f448d4984",
+    "retrain_time_s": 1.4213,
     "strategy": "Random"
   },
   {
@@ -750,9 +750,9 @@
       52554
     ],
     "shard_id": 19,
-    "hash_before": "23937c4696d50c0920e657d47c63d83878dd0a6bdc8ea291ba01a296a19a06bd",
-    "hash_after": "6b01fd7504259095f58a581db2aa7d9c26b7e4a263e0c2be0c40625073e0fee2",
-    "retrain_time_s": 1.4203,
+    "hash_before": "7ed94941e5a4c2369044dffdfbb9fd45922692b41316537e1fcc97bc403c080a",
+    "hash_after": "3fdbb2f83d88626b65ddffbe9d8979926e62f4272baf2f61f84fbcea52211b51",
+    "retrain_time_s": 1.3071,
     "strategy": "Random"
   },
   {
@@ -762,9 +762,9 @@
       52784
     ],
     "shard_id": 7,
-    "hash_before": "fc2819f5bb2e96bbd1096a80510dc02fe4cfec9b895d6b967737f319dc9f6162",
-    "hash_after": "08e71399e255342f50f76be12409ba7f8d8507fbf8ae4d1a183cceeab5bf7e1b",
-    "retrain_time_s": 0.9282,
+    "hash_before": "a5d17aac39ccbbd8861487baae192b521cd0639b0cc7cd1f3e91b0024f7bd135",
+    "hash_after": "b5dc6b666d351153d4b556d654a887db9a102fcd42446804275c8dfc95380326",
+    "retrain_time_s": 0.5569,
     "strategy": "Random"
   },
   {
@@ -774,9 +774,9 @@
       52551
     ],
     "shard_id": 14,
-    "hash_before": "c21de5bd06fa5d85277fd403bd68f49ea358e2322d2503f43201e369bcf21ba8",
-    "hash_after": "3576ab8b0f60f0997d5fc7f9cacbd466b4b525cc69b72567a5b802032ab477a1",
-    "retrain_time_s": 0.7817,
+    "hash_before": "f7839a40529405a957f276b49b465f0acc1161ca7e07fff5c371f9de220e19ce",
+    "hash_after": "f7a8072ebad2307de2a31c52c62f513c084be088602356103df4afd427ad31eb",
+    "retrain_time_s": 0.8505,
     "strategy": "Random"
   },
   {
@@ -786,9 +786,9 @@
       52542
     ],
     "shard_id": 13,
-    "hash_before": "7cd136596b1eefa8d693f133fa912fddc6c05755faf976114eb592f091f2f017",
-    "hash_after": "e090d20100a861e0aa54c09b2f3400be2cb92a1dba8935dc31aa2f38762ac7e5",
-    "retrain_time_s": 0.7381,
+    "hash_before": "23c2e199b2b245ac8644e7356b26777a2d5a3cfdc4a5601a27f183c711356da5",
+    "hash_after": "ac781f304d9a43a8495360167e791e6b222354ab60a390f1a484d95dc1e5277d",
+    "retrain_time_s": 0.9027,
     "strategy": "Random"
   },
   {
@@ -798,9 +798,9 @@
       52777
     ],
     "shard_id": 0,
-    "hash_before": "3a6b3e8b0902d84aa6dda7519299ddb04bccb69b6ab6990cfc1eea484f04914d",
-    "hash_after": "3b725cb5688d30f8410d7c4a3038e3f703bc5d3a5845b75d6e0e83d4566ab63b",
-    "retrain_time_s": 1.2939,
+    "hash_before": "70327bba138009c929cfec8b489b51aaa038e0c52282901b7e01e9c3dfa9c844",
+    "hash_after": "f2de25a5b97829e5b9549133e508772101692c95c5b6b22e8413038c08694134",
+    "retrain_time_s": 0.6168,
     "strategy": "Random"
   },
   {
@@ -810,9 +810,9 @@
       52590
     ],
     "shard_id": 4,
-    "hash_before": "41a2afc7705765ee25f7bdb92510fc1592d80a83eeabf90978d3ede2126c6e62",
-    "hash_after": "cf3cb8a09f94360ee0ba0747d4d8a6541d1d02e247d1e7b927f9743f8106e206",
-    "retrain_time_s": 0.7383,
+    "hash_before": "379845e10fab7dbfd77d1c7ac003071baf3578b732da128f84242db16d91105f",
+    "hash_after": "bd66a2d69864ad6b4f2eef0e5b183525702e4a3c933f1a5fd8adf2455b687b0e",
+    "retrain_time_s": 0.7345,
     "strategy": "Random"
   },
   {
@@ -822,9 +822,9 @@
       52724
     ],
     "shard_id": 8,
-    "hash_before": "7c59cef8d89b4963a58abf9cb52b7f06d2855a23bfd21966dff2c67286cc832d",
-    "hash_after": "89bbce84d70d8bf61f092d7b6865c67f9e419d5a6369605563c40e63c69ee421",
-    "retrain_time_s": 0.7824,
+    "hash_before": "b458dc336157ed01e4fdcb41bdd96e473a80fc9720f4c8a928bdd178df5069e6",
+    "hash_after": "b8e6987840a288bf5a2464661a49ab3ab150532d8deab47041f5613c696682d0",
+    "retrain_time_s": 0.5386,
     "strategy": "Random"
   },
   {
@@ -834,9 +834,9 @@
       52551
     ],
     "shard_id": 3,
-    "hash_before": "4c56b419eb84caa31c76c8f4bb42985bc140fbb3d41f3e8b7ee83019c1c33bb6",
-    "hash_after": "8c58bea52a7c5329171f8630086a823987fc31977f287c43210f087f8eb0dc6e",
-    "retrain_time_s": 1.4158,
+    "hash_before": "36dbee7055ed88fc5b10bf91148caf819d64587cd94e23053747796f448d4984",
+    "hash_after": "9ca04ba4ca1b514244cdfd7923a46bfa737bb4401f59fcf2e55f62344d21ba35",
+    "retrain_time_s": 1.4286,
     "strategy": "Random"
   },
   {
@@ -846,9 +846,9 @@
       52763
     ],
     "shard_id": 1,
-    "hash_before": "4b0de4fc9ef48019cab5ccec59b5c52a12fedb608d948ce71bcf794375cc2283",
-    "hash_after": "5654c67016a1257d2eb34c176502cd8ecc003c6428aa2e47ad0b8609f5161cd4",
-    "retrain_time_s": 1.2247,
+    "hash_before": "40fe02263cdcd77ac1a698133e6255e999fc7f8c730d44e383931b96a6f60f5e",
+    "hash_after": "353c5599624c14056e1410ee7f0332b1ddd9aa91eec25bad41ff5bfcb5e1dcc0",
+    "retrain_time_s": 0.8299,
     "strategy": "Random"
   },
   {
@@ -858,9 +858,9 @@
       52740
     ],
     "shard_id": 15,
-    "hash_before": "c5ce08d45385e99a4cae6ea7cc5cdd46f395ea462e4d1ae640bb07cc9b96060e",
-    "hash_after": "1417fe046f865fb636a5926e1b11a3ac5fb4e8854b392b093922133d8d41a516",
-    "retrain_time_s": 0.572,
+    "hash_before": "d0c1b2359377c9e8f9e5f84eb69ad0e1acdc57f46f0472f6e5b2f244ce88e64f",
+    "hash_after": "4c5cd6158430c7ba0ba4603489fe0bd4daa7f74f7f4998eceadfecf21e2be28a",
+    "retrain_time_s": 0.8812,
     "strategy": "Random"
   },
   {
@@ -870,9 +870,9 @@
       52634
     ],
     "shard_id": 18,
-    "hash_before": "a6f2edfc5fd697408f1b9d19cee112261a09fe9c031f400f59812dc28140708c",
-    "hash_after": "0afcee564b61d0fd20640297213750c5a1429be737713d59fd5cb114a940c25a",
-    "retrain_time_s": 0.4508,
+    "hash_before": "21bb4ebb0fcd6e7dbf8a5eb726f6e3c9ef21fc27a74336dc146603cbbfa193d2",
+    "hash_after": "667bec8e619642759761b2f9b6aa2bb701fe7a78cfe784125c4dc9e73b8413ee",
+    "retrain_time_s": 0.6429,
     "strategy": "Random"
   },
   {
@@ -882,9 +882,9 @@
       52488
     ],
     "shard_id": 19,
-    "hash_before": "6b01fd7504259095f58a581db2aa7d9c26b7e4a263e0c2be0c40625073e0fee2",
-    "hash_after": "dd4bc2e54fe889f9868d8b749c0b02f27f6b791f094bb5c16d89f5390a1dae16",
-    "retrain_time_s": 0.6427,
+    "hash_before": "3fdbb2f83d88626b65ddffbe9d8979926e62f4272baf2f61f84fbcea52211b51",
+    "hash_after": "7b41268143e07099c5d9c8d8325e014e8322b1d5d4db1cdcc50a8987cc199ec5",
+    "retrain_time_s": 0.8641,
     "strategy": "Random"
   },
   {
@@ -894,9 +894,9 @@
       52928
     ],
     "shard_id": 4,
-    "hash_before": "cf3cb8a09f94360ee0ba0747d4d8a6541d1d02e247d1e7b927f9743f8106e206",
-    "hash_after": "21455829355f0be26005a468cda718e6cc17cedb0d2d463624e146130fbd4e4b",
-    "retrain_time_s": 0.7593,
+    "hash_before": "bd66a2d69864ad6b4f2eef0e5b183525702e4a3c933f1a5fd8adf2455b687b0e",
+    "hash_after": "51361141b3d965f1176f786076f3b1df4e0397e3e3c005042872c02d2cf365a7",
+    "retrain_time_s": 0.6049,
     "strategy": "Random"
   },
   {
@@ -906,9 +906,9 @@
       52522
     ],
     "shard_id": 12,
-    "hash_before": "0e7c8509526a46e1881bc873a1cce526abc99db09957ac40b1f2aee5f02b96e5",
-    "hash_after": "5c210d94bb19d18db55feb024e8cc27f5d6e6e655b1d4cadd731bdca63ffb85e",
-    "retrain_time_s": 1.4159,
+    "hash_before": "3bada2cecaf47827a36a620f2452424e21d1c64f49d215eee85e5ca636707127",
+    "hash_after": "400f5c5b543b763ac4cbf7f115bea53ae5eaf57f1d136b435f7a33726fe28528",
+    "retrain_time_s": 0.7127,
     "strategy": "Random"
   },
   {
@@ -918,9 +918,9 @@
       52536
     ],
     "shard_id": 8,
-    "hash_before": "89bbce84d70d8bf61f092d7b6865c67f9e419d5a6369605563c40e63c69ee421",
-    "hash_after": "0a4fc4fae693bc859990421725b1bc3eb83af6f6229016d75c4951e160a84a5d",
-    "retrain_time_s": 0.6156,
+    "hash_before": "b8e6987840a288bf5a2464661a49ab3ab150532d8deab47041f5613c696682d0",
+    "hash_after": "b79eb0101db0d2531581fd7d1a09eb1287543689688f1aa2f7bdc8aa3e1f2c36",
+    "retrain_time_s": 0.6034,
     "strategy": "Random"
   },
   {
@@ -930,9 +930,9 @@
       52573
     ],
     "shard_id": 8,
-    "hash_before": "0a4fc4fae693bc859990421725b1bc3eb83af6f6229016d75c4951e160a84a5d",
-    "hash_after": "02de567f3ac2d4b7b8a5d10053f687b068d634949cce77372d9f7cd6a7c169c5",
-    "retrain_time_s": 0.5261,
+    "hash_before": "b79eb0101db0d2531581fd7d1a09eb1287543689688f1aa2f7bdc8aa3e1f2c36",
+    "hash_after": "7a8a53951f39719e11d9ef2fa2c9c69d673bec35245aea9f7c6d8602ec57c3d7",
+    "retrain_time_s": 0.7262,
     "strategy": "Random"
   },
   {
@@ -942,9 +942,9 @@
       52515
     ],
     "shard_id": 16,
-    "hash_before": "b9944a3fbd9aef610ea42b941943a1aaf80e225b7e46b50973e7becf7bac795e",
-    "hash_after": "947b62b4c6de3b3c6a7d7c8d52115cb4f13efb6195259c7d46a0cb46e7c0b459",
-    "retrain_time_s": 0.5839,
+    "hash_before": "0d1d5b83276fae8bff38a177c0165a3345c5f3ac9675ce8982ae6733b0fb0991",
+    "hash_after": "8c7388f52d751b9c53c33af06175b3257fbca7da8f8ea2a6f64bf4e1b44ee888",
+    "retrain_time_s": 0.6481,
     "strategy": "Random"
   },
   {
@@ -954,9 +954,9 @@
       52536
     ],
     "shard_id": 0,
-    "hash_before": "3b725cb5688d30f8410d7c4a3038e3f703bc5d3a5845b75d6e0e83d4566ab63b",
-    "hash_after": "c541cd924ae9cf2362cb33456c1d0cced621deb99b435db711738260f5ecfd2b",
-    "retrain_time_s": 0.583,
+    "hash_before": "f2de25a5b97829e5b9549133e508772101692c95c5b6b22e8413038c08694134",
+    "hash_after": "cf83e4f17177855cfa59db5ec374379760e486948fe222bd522d7ed2eaeb7194",
+    "retrain_time_s": 0.6478,
     "strategy": "Random"
   },
   {
@@ -966,9 +966,9 @@
       52562
     ],
     "shard_id": 14,
-    "hash_before": "3576ab8b0f60f0997d5fc7f9cacbd466b4b525cc69b72567a5b802032ab477a1",
-    "hash_after": "95f96ff20288023c8cdd1f95cb14161ed9ecadcee04bc60a33072871c222db59",
-    "retrain_time_s": 0.9031,
+    "hash_before": "f7a8072ebad2307de2a31c52c62f513c084be088602356103df4afd427ad31eb",
+    "hash_after": "2a52fa88eecce8db5ef645ea99f725919cd7b58e6c0b2cb9c1be28b9d973688c",
+    "retrain_time_s": 0.9988,
     "strategy": "Random"
   },
   {
@@ -978,9 +978,9 @@
       52755
     ],
     "shard_id": 12,
-    "hash_before": "5c210d94bb19d18db55feb024e8cc27f5d6e6e655b1d4cadd731bdca63ffb85e",
-    "hash_after": "e3a79976ce67abe040a1012c49b2c42eee2a28dd3a68b687a998f731857ac22d",
-    "retrain_time_s": 0.6106,
+    "hash_before": "400f5c5b543b763ac4cbf7f115bea53ae5eaf57f1d136b435f7a33726fe28528",
+    "hash_after": "a91ff25bcc8b6424070b23da66761362098b8388a0ec9c32878fdca713e7ba33",
+    "retrain_time_s": 0.6642,
     "strategy": "Random"
   },
   {
@@ -990,9 +990,9 @@
       52745
     ],
     "shard_id": 18,
-    "hash_before": "0afcee564b61d0fd20640297213750c5a1429be737713d59fd5cb114a940c25a",
-    "hash_after": "596eaab994737574704469a45ce045dfeb7e0630a2d42dcd910e7101bebd562d",
-    "retrain_time_s": 0.6208,
+    "hash_before": "667bec8e619642759761b2f9b6aa2bb701fe7a78cfe784125c4dc9e73b8413ee",
+    "hash_after": "ddadacdc4ed4e11ea838c296e969b2a2ee2c864f8c5685aa2d22c308c3e5df44",
+    "retrain_time_s": 0.7971,
     "strategy": "Random"
   },
   {
@@ -1002,9 +1002,9 @@
       52940
     ],
     "shard_id": 17,
-    "hash_before": "c4f87dea4c193c6fe9ef3159f3039a8b7d79be22e86a7d0d56df05ee46806766",
-    "hash_after": "1660c23b1795a8d86cacacbe3d25f4660bc062fe7f5bb50357d474427371d40a",
-    "retrain_time_s": 0.7782,
+    "hash_before": "e49926b84ea94c630059b401549f8aa0f78f998332569e28db0ec13f4606be00",
+    "hash_after": "c6848948adb10c3c95ae3858d4cea6f8f04bdcb443d5cff8ae00be75dad8d63e",
+    "retrain_time_s": 0.6529,
     "strategy": "Random"
   },
   {
@@ -1014,9 +1014,9 @@
       52720
     ],
     "shard_id": 19,
-    "hash_before": "dd4bc2e54fe889f9868d8b749c0b02f27f6b791f094bb5c16d89f5390a1dae16",
-    "hash_after": "e8063419aadf825b6d0764ee7ac304a74fa415ddd5e783d11c26b5c0077cc65d",
-    "retrain_time_s": 1.4268,
+    "hash_before": "7b41268143e07099c5d9c8d8325e014e8322b1d5d4db1cdcc50a8987cc199ec5",
+    "hash_after": "e96bc8a972e30f0d8ba39c1ea3bbcac6cbefc71802cddaa37447c48b2efd7b0e",
+    "retrain_time_s": 1.4251,
     "strategy": "Random"
   },
   {
@@ -1026,9 +1026,9 @@
       52707
     ],
     "shard_id": 4,
-    "hash_before": "21455829355f0be26005a468cda718e6cc17cedb0d2d463624e146130fbd4e4b",
-    "hash_after": "bac937ae6837c5c5d20efb7ee20e40bb7de2de9a2cfc55fd971e4966ea98e95d",
-    "retrain_time_s": 0.5191,
+    "hash_before": "51361141b3d965f1176f786076f3b1df4e0397e3e3c005042872c02d2cf365a7",
+    "hash_after": "ec5f602789b62447fd5d9abbee470b1714de28a7ef59c79521114d89d8682b6d",
+    "retrain_time_s": 0.9169,
     "strategy": "Random"
   },
   {
@@ -1038,9 +1038,9 @@
       52823
     ],
     "shard_id": 18,
-    "hash_before": "596eaab994737574704469a45ce045dfeb7e0630a2d42dcd910e7101bebd562d",
-    "hash_after": "668b8a863ca036997a0f30362ae664ae7e3d0f2be7712f217327c2ed56458d9a",
-    "retrain_time_s": 0.5328,
+    "hash_before": "ddadacdc4ed4e11ea838c296e969b2a2ee2c864f8c5685aa2d22c308c3e5df44",
+    "hash_after": "61bac737b9a9fc329ca9b171605b3ebfe725136dca15b4c6d12ae9f855b830d5",
+    "retrain_time_s": 1.1432,
     "strategy": "Random"
   },
   {
@@ -1050,9 +1050,9 @@
       52561
     ],
     "shard_id": 18,
-    "hash_before": "668b8a863ca036997a0f30362ae664ae7e3d0f2be7712f217327c2ed56458d9a",
-    "hash_after": "216d93b414923ada0fa95b4d6c6d2d20b7fc176508575b241d8f400fdbdf28c6",
-    "retrain_time_s": 0.7449,
+    "hash_before": "61bac737b9a9fc329ca9b171605b3ebfe725136dca15b4c6d12ae9f855b830d5",
+    "hash_after": "19ae6f084169c81d738d3c2f09ea10e7daf72d5f237e1b25a1ae7d11e6904375",
+    "retrain_time_s": 0.5404,
     "strategy": "Random"
   },
   {
@@ -1062,9 +1062,9 @@
       52587
     ],
     "shard_id": 9,
-    "hash_before": "1067f901c058d72167c474b34bdb372f280c171bb1c47a22d4f85acebefaea82",
-    "hash_after": "8be10240ecdf9051956e163b1c4a75873bcf00147b4e28ede256603f2eb09b16",
-    "retrain_time_s": 1.4255,
+    "hash_before": "6f0a52b9253287af750f970efabdcd38c7e2edac05d6f0bd97ef9c4fa5fa3259",
+    "hash_after": "8338df5fd76384a4b7c2ed0b05875d09c1cf0dce77bbc912ffa20b575aa377c8",
+    "retrain_time_s": 0.9308,
     "strategy": "Random"
   },
   {
@@ -1074,9 +1074,9 @@
       52762
     ],
     "shard_id": 18,
-    "hash_before": "216d93b414923ada0fa95b4d6c6d2d20b7fc176508575b241d8f400fdbdf28c6",
-    "hash_after": "ed288ed18024202c2098d4a57cd1e9729b798dd93c6af9cc95a1d874e3f84004",
-    "retrain_time_s": 0.8249,
+    "hash_before": "19ae6f084169c81d738d3c2f09ea10e7daf72d5f237e1b25a1ae7d11e6904375",
+    "hash_after": "c22198bf94f0c9afd85f6a929692910b17c1d6277112979e88c8d98e8c6eca02",
+    "retrain_time_s": 0.8188,
     "strategy": "Random"
   },
   {
@@ -1086,9 +1086,9 @@
       52762
     ],
     "shard_id": 12,
-    "hash_before": "e3a79976ce67abe040a1012c49b2c42eee2a28dd3a68b687a998f731857ac22d",
-    "hash_after": "9ad8f4059b98b6f1c547c7413d836afab1f6c2700cf25fcae3c3365ffdf38432",
-    "retrain_time_s": 0.5852,
+    "hash_before": "a91ff25bcc8b6424070b23da66761362098b8388a0ec9c32878fdca713e7ba33",
+    "hash_after": "abace848098c677049a09eda56244ceb49aba8c94571464cece6ddeedbd7146b",
+    "retrain_time_s": 0.9109,
     "strategy": "Random"
   },
   {
@@ -1098,9 +1098,9 @@
       52692
     ],
     "shard_id": 5,
-    "hash_before": "247c166b7034c823e953ecb9c8b124350f31d7116e2fb049f6c6280243ee5d89",
-    "hash_after": "1ce3be424b549d9dac20b8c29e85b892775a405295063b940bfe902b6508e5bf",
-    "retrain_time_s": 1.0016,
+    "hash_before": "b7dc1a1464ceaba507b56a57bc8a6f8a2265181ac8b9c20be10ebe59671d4f27",
+    "hash_after": "248585364a8347e73c736351dc257ee34387e8c7fd2bd51531f156a63a24b868",
+    "retrain_time_s": 1.4234,
     "strategy": "Random"
   },
   {
@@ -1110,9 +1110,9 @@
       52784
     ],
     "shard_id": 0,
-    "hash_before": "c541cd924ae9cf2362cb33456c1d0cced621deb99b435db711738260f5ecfd2b",
-    "hash_after": "d7f8fa6512a2bd0fedd32ee0501814f55b4089237c269e9f84f732f4aaee0a98",
-    "retrain_time_s": 0.8608,
+    "hash_before": "cf83e4f17177855cfa59db5ec374379760e486948fe222bd522d7ed2eaeb7194",
+    "hash_after": "afe4a1dd7cd03af31b654585c59dbb3e7afa3dc29cacb99e107986d680e147b1",
+    "retrain_time_s": 0.6724,
     "strategy": "Random"
   },
   {
@@ -1122,9 +1122,9 @@
       52765
     ],
     "shard_id": 1,
-    "hash_before": "5654c67016a1257d2eb34c176502cd8ecc003c6428aa2e47ad0b8609f5161cd4",
-    "hash_after": "15c0ba47a372d4bf19182e6d7644cf5f31d1d34b7caf381fe459dc472fb66fc5",
-    "retrain_time_s": 1.1009,
+    "hash_before": "353c5599624c14056e1410ee7f0332b1ddd9aa91eec25bad41ff5bfcb5e1dcc0",
+    "hash_after": "eaed923d0cf95ed41f5279fce353e81d2c684876699a4eddff53bfaa41e58ff2",
+    "retrain_time_s": 0.8974,
     "strategy": "Random"
   },
   {
@@ -1134,9 +1134,9 @@
       52737
     ],
     "shard_id": 15,
-    "hash_before": "1417fe046f865fb636a5926e1b11a3ac5fb4e8854b392b093922133d8d41a516",
-    "hash_after": "3cb912e3ba26f1c9a5fde479618e148963a23a8eaa5e552290ed120f50b905c1",
-    "retrain_time_s": 1.4299,
+    "hash_before": "4c5cd6158430c7ba0ba4603489fe0bd4daa7f74f7f4998eceadfecf21e2be28a",
+    "hash_after": "66c5964ad3446ce03cbd66d7ed3d1448803001cc6d38c8c47039c08b9c742338",
+    "retrain_time_s": 0.8936,
     "strategy": "Random"
   },
   {
@@ -1146,9 +1146,9 @@
       52631
     ],
     "shard_id": 8,
-    "hash_before": "02de567f3ac2d4b7b8a5d10053f687b068d634949cce77372d9f7cd6a7c169c5",
-    "hash_after": "416ff279bc31e1aafd8e3620752fe961f552fe225dabc23d0dd3c01bec8e29b5",
-    "retrain_time_s": 0.3862,
+    "hash_before": "7a8a53951f39719e11d9ef2fa2c9c69d673bec35245aea9f7c6d8602ec57c3d7",
+    "hash_after": "318cc3fcd737980d3d09d3426e602294dad82387db815fd9e95bbba9a07125c2",
+    "retrain_time_s": 0.6747,
     "strategy": "Random"
   },
   {
@@ -1158,9 +1158,9 @@
       52653
     ],
     "shard_id": 8,
-    "hash_before": "416ff279bc31e1aafd8e3620752fe961f552fe225dabc23d0dd3c01bec8e29b5",
-    "hash_after": "585f627dd2c6f80d1740373541ffae34ba73e8a7613bf6abee57acf3feb879c5",
-    "retrain_time_s": 0.9032,
+    "hash_before": "318cc3fcd737980d3d09d3426e602294dad82387db815fd9e95bbba9a07125c2",
+    "hash_after": "ff2a6e7b6594d30f365b7c9040e093753032daa86ddeb754c12a146ec2b5bd5f",
+    "retrain_time_s": 0.4206,
     "strategy": "Random"
   },
   {
@@ -1170,9 +1170,9 @@
       52567
     ],
     "shard_id": 1,
-    "hash_before": "15c0ba47a372d4bf19182e6d7644cf5f31d1d34b7caf381fe459dc472fb66fc5",
-    "hash_after": "05a49d2d95d0ed7ebd4038de07a06d615e49f3d7e0d1aa97577a65fa1851537e",
-    "retrain_time_s": 0.8036,
+    "hash_before": "eaed923d0cf95ed41f5279fce353e81d2c684876699a4eddff53bfaa41e58ff2",
+    "hash_after": "97e93a9e818f52c78276a75cc7590b205b231721917e5b29d97c1556d174828b",
+    "retrain_time_s": 0.8658,
     "strategy": "Random"
   },
   {
@@ -1182,9 +1182,9 @@
       52675
     ],
     "shard_id": 10,
-    "hash_before": "3e32aab01b72c6794dacfcc85472a82867423ac8e448133e57bfe19af95cfc0a",
-    "hash_after": "98920c7b4e98d755e5d95770bd83044c20492665cae59e681112cd166687e7c0",
-    "retrain_time_s": 0.749,
+    "hash_before": "b09abbfcb698f49583c5e00f41998e430cea0363bba3ef13802aba8a5a4e17f9",
+    "hash_after": "b76bc76e3713d478196df8b4a75849347c35b9cd0ce1e8fff7448c93caf873a2",
+    "retrain_time_s": 0.5998,
     "strategy": "Random"
   },
   {
@@ -1194,9 +1194,9 @@
       52715
     ],
     "shard_id": 10,
-    "hash_before": "98920c7b4e98d755e5d95770bd83044c20492665cae59e681112cd166687e7c0",
-    "hash_after": "ddfa31a5939dcf53eb12b0b78c3417e51bf54a15dcf4e54384d1d89191cb8573",
-    "retrain_time_s": 0.8293,
+    "hash_before": "b76bc76e3713d478196df8b4a75849347c35b9cd0ce1e8fff7448c93caf873a2",
+    "hash_after": "192a2fc9407806f2a66fe2c276573ef3d6709f98e76519f2c81a7b2220122a10",
+    "retrain_time_s": 0.655,
     "strategy": "Random"
   }
 ]

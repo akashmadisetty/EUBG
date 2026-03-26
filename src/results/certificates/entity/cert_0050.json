@@ -5,8 +5,8 @@
     52501
   ],
   "shard_id": 4,
-  "hash_before": "da0cff206892c8a94d591dd15e66fa2ba502eabb3edc9910e3b7f26413f3cf96",
-  "hash_after": "fc1eb7285f62cce2ee547cb563ca9f8b950b4ad21f0b01196fb35f29a0972968",
-  "retrain_time_s": 0.4964,
+  "hash_before": "eabba2b4a0d84ac4430f828dc3a3a2f1da60555d451f27e9403cb82ce77980dd",
+  "hash_after": "ffc43d1839079782a74ba0e247a59c16789fcb8ea38d985e651724416f687beb",
+  "retrain_time_s": 0.4847,
   "strategy": "Entity"
 }

@@ -5,8 +5,8 @@
     52542
   ],
   "shard_id": 2,
-  "hash_before": "837c5d66526f4ae492960cbb9f84ef5e2229305c0f8c523ab65347d38d811847",
-  "hash_after": "36c3850432eb243b3089a6a0b6805f7209debb79a49bd61d7035a4817ec5b9a3",
-  "retrain_time_s": 0.4306,
+  "hash_before": "a258b1ca2ca4ec8486f1450ec88a4bd9cacb5e169a66a1bc805493486fe348ac",
+  "hash_after": "a85246e73696bc7a4c4f642e3406f6a17c49244c6bc2ece65a42548816362566",
+  "retrain_time_s": 0.3937,
   "strategy": "Community"
 }

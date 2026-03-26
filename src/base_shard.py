@@ -92,6 +92,8 @@ class BaseShard(abc.ABC):
         if edges.shape[1] == 0:
             return None
 
+        # Fixed seed per shard for reproducibility (applies to all strategies uniformly)
+        torch.manual_seed(42 + shard_id)
         model = GraphSAGEModel(
             in_channels=config.NODE_FEATURE_DIM,
             hidden_channels=config.HIDDEN_DIM,
@@ -179,14 +181,23 @@ class BaseShard(abc.ABC):
     def unlearn_edge(self, edge_src, edge_dst):
         """
         Remove a single edge from its owning shard, retrain that shard.
+        Also removes the edge from the GNN message-passing graph to prevent
+        data leakage (the model must not propagate messages along deleted edges).
         Returns (shard_id, retrain_time_seconds).
         """
         sid = self.drug_to_shard.get(edge_src, 0)
         edges, labels = self.shard_edges[sid]
 
-        # find and remove the edge
+        # find and remove the edge from shard training data
         mask = ~((edges[0] == edge_src) & (edges[1] == edge_dst))
         self.shard_edges[sid] = (edges[:, mask], labels[mask])
+
+        # remove from GNN message-passing graph to prevent data leakage
+        gi = self.data["edge_index"]
+        gi_mask = ~((gi[0] == edge_src) & (gi[1] == edge_dst))
+        # also remove reverse direction for undirected message passing
+        gi_mask &= ~((gi[0] == edge_dst) & (gi[1] == edge_src))
+        self.data["edge_index"] = gi[:, gi_mask]
 
         t0 = time.time()
         self.train_shard(sid)

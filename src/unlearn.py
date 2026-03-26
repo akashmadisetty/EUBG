@@ -155,6 +155,39 @@ class UnlearningCertifier:
 
         return avg_time, total_time, self.certificates
 
+    # ─── Run unlearning (Full Retrain) ───────────────────────────────────
+    def unlearn_full_retrain(self, deletion_edges, data):
+        """
+        Execute full-retrain unlearning (gold standard baseline).
+        Returns (avg_time_per_deletion, total_time, certificates).
+        """
+        self.certificates = []
+
+        # Hash before
+        hash_before = self.hash_model(self.strategy.model)
+
+        total_time = self.strategy.unlearn_edges(deletion_edges)
+
+        # Hash after
+        hash_after = self.hash_model(self.strategy.model)
+
+        avg_time = total_time / max(len(deletion_edges), 1)
+
+        # One certificate per edge
+        for i, (src, dst) in enumerate(deletion_edges):
+            cert = {
+                "deletion_id": i,
+                "edge": [src, dst],
+                "shard_id": "global",
+                "hash_before": hash_before,
+                "hash_after": hash_after,
+                "avg_time_per_del_s": round(avg_time, 6),
+                "strategy": "FullRetrain",
+            }
+            self.certificates.append(cert)
+
+        return avg_time, total_time, self.certificates
+
     # ─── Save certificates ───────────────────────────────────────────────
     def save_certificates(self, strategy_name=None):
         """Write all certificates to JSON files."""

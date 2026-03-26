@@ -6,9 +6,9 @@
       52731
     ],
     "shard_id": 18,
-    "hash_before": "83c8131f9b1e1e43c5a7d92cdaf4da270313be993c88b748b69da9f3b3798a2e",
-    "hash_after": "bc56f5df41c89119d4dede3d6b8e755b8c63c9a11b8e7fa9217b50df0ca49bbc",
-    "retrain_time_s": 0.6811,
+    "hash_before": "a7a94baf8bc5744bb95fdefb9487a2f965295a81bdf41b79c39d1e89089cfb32",
+    "hash_after": "df1848ebbbf31be59a602dc89cb72774589a79d70d16c90c933e0ad3a7046b49",
+    "retrain_time_s": 0.5527,
     "strategy": "Similarity"
   },
   {
@@ -18,9 +18,9 @@
       52626
     ],
     "shard_id": 2,
-    "hash_before": "dc1bd1e28c28a025bdd7b7f792a840c678d4ce31799a9178515e4452cd801abf",
-    "hash_after": "9eeed2afe4735ad062a3fab398af73f5e658da8fbce3ca64dcef2ffd08cc81e0",
-    "retrain_time_s": 0.4078,
+    "hash_before": "b2bafce0f4d1a0e1183a0395a958396c3b1d817b5044fefbb50e2e8fa3057248",
+    "hash_after": "00d557a5a715c14f0254d84ed358391217003329aa488206696a810923008d49",
+    "retrain_time_s": 0.4013,
     "strategy": "Similarity"
   },
   {
@@ -30,9 +30,9 @@
       52532
     ],
     "shard_id": 0,
-    "hash_before": "5492b54047dd4a9a109a83bcc670cb900b9ae3f67f827e947f941dff562b4020",
-    "hash_after": "edbb56c5e461740ab426a8b4e49be4e02ef286c1b435ffa25cc6a4d53db13d56",
-    "retrain_time_s": 0.3364,
+    "hash_before": "fb805233c6e2f0a31e76c0f5180c3eb145c94f48e6c2ecb7be98954578beaad2",
+    "hash_after": "9e9e987168d9b4fb760de4c0995404c1a2425a17085af9d00f03e13fe003c99e",
+    "retrain_time_s": 0.3282,
     "strategy": "Similarity"
   },
   {
@@ -42,9 +42,9 @@
       52539
     ],
     "shard_id": 14,
-    "hash_before": "8bff5511d80ca14e748f8e0c3a4555e377c1e22e1bcf56d1c8c42a5f6f1aff7a",
-    "hash_after": "241a7fc6e1f4d5546d8861e24149d85d910357b6fc899a173c8c22e45f3a09cf",
-    "retrain_time_s": 0.4218,
+    "hash_before": "4984ff76aab67eadf66d8c5ed5529d1943928c5c280c3b33e8178b4e5585863e",
+    "hash_after": "6f071f7d53fcb0a169c127d1a95dac2f0e937640212db9ada57a5348ebcacd19",
+    "retrain_time_s": 0.4285,
     "strategy": "Similarity"
   },
   {
@@ -54,9 +54,9 @@
       52543
     ],
     "shard_id": 4,
-    "hash_before": "89a144bd49b55a8770fcf461b14581cde7f798299cb7bbf6906fd981c1003972",
-    "hash_after": "23a6f7b1c4abc9da9c45b789e840c9e0f769faeb3301848c91974f326dd91e00",
-    "retrain_time_s": 0.5313,
+    "hash_before": "74fa74f4a146abaa3edaa324b70f3697f4526d30125418e633373ff865cbfe64",
+    "hash_after": "8a9cd894652255489c078bf1be92f5a1389965316c7a1538409f400e661c0b16",
+    "retrain_time_s": 0.4983,
     "strategy": "Similarity"
   },
   {
@@ -66,9 +66,9 @@
       52527
     ],
     "shard_id": 18,
-    "hash_before": "bc56f5df41c89119d4dede3d6b8e755b8c63c9a11b8e7fa9217b50df0ca49bbc",
-    "hash_after": "c3a815f07219c78469b0e8e38cd5f21c7505b259ba4d841d6c8f79b97d674fae",
-    "retrain_time_s": 0.5461,
+    "hash_before": "df1848ebbbf31be59a602dc89cb72774589a79d70d16c90c933e0ad3a7046b49",
+    "hash_after": "8f2a4c860bc4d1f7afd6ef43e8097975a6ed0f633386ab427f62095d1f4b100b",
+    "retrain_time_s": 0.6578,
     "strategy": "Similarity"
   },
   {
@@ -78,9 +78,9 @@
       52886
     ],
     "shard_id": 6,
-    "hash_before": "0aacead248705086b77e88f9639fc787d9fc8df54c4f52536828db3ffe3a2116",
-    "hash_after": "b6ad4fe00bd7de738c929bed1aecb2ced28814b4bea05dfb2c2cd949e4a2e91b",
-    "retrain_time_s": 0.3599,
+    "hash_before": "f561445d4028f8c1e7137981ebf6790367b14656362a0a50fbdf2f0ede2c0306",
+    "hash_after": "db1f54340bd75543c59a24ec0e872e25007439ec517749329154968a1521dbd9",
+    "retrain_time_s": 0.3256,
     "strategy": "Similarity"
   },
   {
@@ -90,9 +90,9 @@
       52734
     ],
     "shard_id": 13,
-    "hash_before": "e82fc68421184e0530f82f6566edec7ef981bea0fd74e114ce88f59ba3707e1e",
-    "hash_after": "8297a46a89c769124d1a0b77a92839d2306cbb97ca8edfdeb1adcfcf254be3c6",
-    "retrain_time_s": 0.3852,
+    "hash_before": "5a1c4f28083105d9162ae0675526dfee45227172b0aeae4360eddc8f64b752ce",
+    "hash_after": "b8c9fbad71940d5b9e289294f8ec99873ec7adb09d12c1d2ad35594f660d6006",
+    "retrain_time_s": 0.3451,
     "strategy": "Similarity"
   },
   {
@@ -102,9 +102,9 @@
       52744
     ],
     "shard_id": 13,
-    "hash_before": "8297a46a89c769124d1a0b77a92839d2306cbb97ca8edfdeb1adcfcf254be3c6",
-    "hash_after": "d75ccd7fbe44b8ce873112e4c57cc353ee54d1d2070e1e993042c53a487277a1",
-    "retrain_time_s": 0.3994,
+    "hash_before": "b8c9fbad71940d5b9e289294f8ec99873ec7adb09d12c1d2ad35594f660d6006",
+    "hash_after": "1fded7658c98c45b216ae4b90332d89d41657eb6660ace2c2f0c3b4e284fd5bf",
+    "retrain_time_s": 0.3535,
     "strategy": "Similarity"
   },
   {
@@ -114,9 +114,9 @@
       52552
     ],
     "shard_id": 17,
-    "hash_before": "802de25cd1311873bc22692b3440601f717383cfa6da904adcea1886eaab8319",
-    "hash_after": "975c869ab83535c5d2a4a749adcc34f07584606f44db4f8a6732cbf5cb0de4fc",
-    "retrain_time_s": 0.4347,
+    "hash_before": "ddb1fd3bb8c6a08a8999578970218eafbaf30be56779aa54463741fca6ce3d7e",
+    "hash_after": "283be88e71203fd5b9d29f00970b42b4ec72465c2b6cd1dda80aaf95ff238d9f",
+    "retrain_time_s": 0.4922,
     "strategy": "Similarity"
   },
   {
@@ -126,9 +126,9 @@
       52566
     ],
     "shard_id": 3,
-    "hash_before": "344512fb6d69d5c60a6b9b0e92adc275d2a61fa0e8e61f0d267a9a02121f8e00",
-    "hash_after": "0d1d2989550295c862ce390f863817f6ee24cf035884fb26e20ba88d0c23f682",
-    "retrain_time_s": 0.4601,
+    "hash_before": "b8d9ca05ae9f1c2312111f944cc577ba4c9266c09ac8abd048738c3188e31d0b",
+    "hash_after": "cf587b03b225b9f1aaab9e0b04e2674eb2e87e4e2bbae2c7a8984e3e32c554c7",
+    "retrain_time_s": 0.373,
     "strategy": "Similarity"
   },
   {
@@ -138,9 +138,9 @@
       52565
     ],
     "shard_id": 9,
-    "hash_before": "be9ead884f385b3abea482e938efa5d88742fe81033d76e3340660f002385c38",
-    "hash_after": "2acae309394d6b35c8c3142491564d5467d5ffe2c9a47e6330042723d47bfe27",
-    "retrain_time_s": 0.4005,
+    "hash_before": "9d8909782b9c0cd02fb8a45b042859eaca734fd2ed6f4b7d2178a9c92eb2c6f0",
+    "hash_after": "a8a8caa53c89e0d41ca0e8fe020be36f99c2ffc7d78db7b25fbadaeff324cb04",
+    "retrain_time_s": 0.4059,
     "strategy": "Similarity"
   },
   {
@@ -150,9 +150,9 @@
       52513
     ],
     "shard_id": 18,
-    "hash_before": "c3a815f07219c78469b0e8e38cd5f21c7505b259ba4d841d6c8f79b97d674fae",
-    "hash_after": "e4d9fd6dbf4b6e0e613dc77d01c55e2d7ebbdaabafd93df899c36ea6ba020f79",
-    "retrain_time_s": 0.5811,
+    "hash_before": "8f2a4c860bc4d1f7afd6ef43e8097975a6ed0f633386ab427f62095d1f4b100b",
+    "hash_after": "fd5cb559d1f4d3e83c3157be18795503e0b4df095f8807af816ca506922228f9",
+    "retrain_time_s": 0.5582,
     "strategy": "Similarity"
   },
   {
@@ -162,9 +162,9 @@
       52532
     ],
     "shard_id": 7,
-    "hash_before": "58a7610c01153964af1c6cc4c59f9c16465ff74e66d6908c573001f46c3cae3d",
-    "hash_after": "9fb6186f4161d7a09c43210233117a0e559dcd15c561b933a446652cd3a1260e",
-    "retrain_time_s": 0.42,
+    "hash_before": "91b93b07645e059295405d58755d031d09178b6512a6d69a698aee83dfd3be90",
+    "hash_after": "e3dd776ed4982bc493c8adaae6a4cafb4e8dcfac86c9fcbbf406ea695518cfd8",
+    "retrain_time_s": 0.4984,
     "strategy": "Similarity"
   },
   {
@@ -174,9 +174,9 @@
       52724
     ],
     "shard_id": 1,
-    "hash_before": "b17f021ba4486a6f303b22310bfce4efc32628e9e44ed9a4a638f20cb3224664",
-    "hash_after": "d56544f6d59db1e2701f190a66686ee17de2d64c036d956054db697ec8872666",
-    "retrain_time_s": 0.4567,
+    "hash_before": "8a03d9e54b480bd1344419f0c03c82e76cac77d28f0d169232d8953b57fb5d31",
+    "hash_after": "625e9d3316cf977535a1d19c097cf812911ef5a089f634a239b27918ba494193",
+    "retrain_time_s": 0.4908,
     "strategy": "Similarity"
   },
   {
@@ -186,9 +186,9 @@
       52846
     ],
     "shard_id": 14,
-    "hash_before": "241a7fc6e1f4d5546d8861e24149d85d910357b6fc899a173c8c22e45f3a09cf",
-    "hash_after": "832b51b08a103d9cdf090170935aeeb39fe30b5541b1980bd28feba7ad1048ac",
-    "retrain_time_s": 0.3908,
+    "hash_before": "6f071f7d53fcb0a169c127d1a95dac2f0e937640212db9ada57a5348ebcacd19",
+    "hash_after": "249496aa4662131b70437ab86f2f1afd7c8d12e1a3dc7f0842c3f9219f648e37",
+    "retrain_time_s": 0.5159,
     "strategy": "Similarity"
   },
   {
@@ -198,9 +198,9 @@
       52531
     ],
     "shard_id": 19,
-    "hash_before": "5cd5dbd3ee7a5c65ef028ed8242be674dcd5fb42804c25cb43e21b9c07a467e5",
-    "hash_after": "84ba5cab6f5f877ba37f423bb1bb9ba8dce19a7b328ac07ce8e4d36258214a75",
-    "retrain_time_s": 0.6536,
+    "hash_before": "78ac215580d69c6a61b86d795102a4503eb442e4f6b0e8b8852e52c84cef5f36",
+    "hash_after": "6eb339b01e918b65b646dc379e610d2b1bbd82513ce0b7ac587519e62dfcd343",
+    "retrain_time_s": 0.594,
     "strategy": "Similarity"
   },
   {
@@ -210,9 +210,9 @@
       52660
     ],
     "shard_id": 10,
-    "hash_before": "4b3a2ef3a0f3411053c71ef2598e8e09c2a353d18c6bc391dc0c687a5b416aef",
-    "hash_after": "9aeefe182ca10e3502a234210969e3d3c55e75d0090a9272b1f28be33413b0a1",
-    "retrain_time_s": 0.4629,
+    "hash_before": "41611d1dd91eb21a75ebf409a406c0e8b3748e12c3f3562e036564b4b2f95559",
+    "hash_after": "e53790ca05e0e9666a2144b4e05d6cefee79d7b93b15afa3f3955f2816af3d68",
+    "retrain_time_s": 0.3079,
     "strategy": "Similarity"
   },
   {
@@ -222,9 +222,9 @@
       52628
     ],
     "shard_id": 2,
-    "hash_before": "9eeed2afe4735ad062a3fab398af73f5e658da8fbce3ca64dcef2ffd08cc81e0",
-    "hash_after": "bff79e3a7ba57b1057937837a0b29dbcecdc1ce8a4d330169c7e6c8aae1156de",
-    "retrain_time_s": 0.3716,
+    "hash_before": "00d557a5a715c14f0254d84ed358391217003329aa488206696a810923008d49",
+    "hash_after": "4185f6b440bb22163bfbb34990ed9df90e5da135ca8a2aadf554a92b2184bff3",
+    "retrain_time_s": 0.4015,
     "strategy": "Similarity"
   },
   {
@@ -234,9 +234,9 @@
       52793
     ],
     "shard_id": 7,
-    "hash_before": "9fb6186f4161d7a09c43210233117a0e559dcd15c561b933a446652cd3a1260e",
-    "hash_after": "3a353dbffa71104265e8e662c57896f1b2824e55f7528bcf66767bcf47c86ed7",
-    "retrain_time_s": 0.4346,
+    "hash_before": "e3dd776ed4982bc493c8adaae6a4cafb4e8dcfac86c9fcbbf406ea695518cfd8",
+    "hash_after": "6ad93d7a77800111b5697c0e7dfbe57176ff5eeee27ea7b7c7375ee6551790b3",
+    "retrain_time_s": 0.4397,
     "strategy": "Similarity"
   },
   {
@@ -246,9 +246,9 @@
       52903
     ],
     "shard_id": 17,
-    "hash_before": "975c869ab83535c5d2a4a749adcc34f07584606f44db4f8a6732cbf5cb0de4fc",
-    "hash_after": "df4894682f9c5bf628c8c81ccf7a013b95e45dbf7c88c98c92584decd5ab2a7a",
-    "retrain_time_s": 0.5886,
+    "hash_before": "283be88e71203fd5b9d29f00970b42b4ec72465c2b6cd1dda80aaf95ff238d9f",
+    "hash_after": "80132cda4d6329a7aab34a9de9edb853e0f85c2502150648f30c9769cc26c1aa",
+    "retrain_time_s": 0.5066,
     "strategy": "Similarity"
   },
   {
@@ -258,9 +258,9 @@
       52758
     ],
     "shard_id": 17,
-    "hash_before": "df4894682f9c5bf628c8c81ccf7a013b95e45dbf7c88c98c92584decd5ab2a7a",
-    "hash_after": "0d903d0bbfcea820c89146064c8b0c027bd84da64c91e566df17fed92d2c2f1e",
-    "retrain_time_s": 0.4883,
+    "hash_before": "80132cda4d6329a7aab34a9de9edb853e0f85c2502150648f30c9769cc26c1aa",
+    "hash_after": "6c4a7f3d4458c4330f58cd2ddf25f964b7322024fb9b8072f604f1ab7c8dff85",
+    "retrain_time_s": 0.4895,
     "strategy": "Similarity"
   },
   {
@@ -270,9 +270,9 @@
       52924
     ],
     "shard_id": 3,
-    "hash_before": "0d1d2989550295c862ce390f863817f6ee24cf035884fb26e20ba88d0c23f682",
-    "hash_after": "7c338f8308eb8582f72a389f0d03da4af63298d7da16a009c11980895e9409c7",
-    "retrain_time_s": 0.4359,
+    "hash_before": "cf587b03b225b9f1aaab9e0b04e2674eb2e87e4e2bbae2c7a8984e3e32c554c7",
+    "hash_after": "a629baa578c8a613641f2bd49376bac82de3a45bc3c678a524ca597485b49ee7",
+    "retrain_time_s": 0.3954,
     "strategy": "Similarity"
   },
   {
@@ -282,9 +282,9 @@
       52778
     ],
     "shard_id": 4,
-    "hash_before": "23a6f7b1c4abc9da9c45b789e840c9e0f769faeb3301848c91974f326dd91e00",
-    "hash_after": "b1533cb208c9fc1f9af5818edd3fac0c01eec061a653bc4be16f5207d27b7b93",
-    "retrain_time_s": 0.5273,
+    "hash_before": "8a9cd894652255489c078bf1be92f5a1389965316c7a1538409f400e661c0b16",
+    "hash_after": "42d7d8e5087a170dfcc84d5eee4ac6b09e9bc7d6c70296d291e4ea7b4d4ee6f0",
+    "retrain_time_s": 0.4883,
     "strategy": "Similarity"
   },
   {
@@ -294,9 +294,9 @@
       52633
     ],
     "shard_id": 2,
-    "hash_before": "bff79e3a7ba57b1057937837a0b29dbcecdc1ce8a4d330169c7e6c8aae1156de",
-    "hash_after": "39569caa29cc3f8c702d752171bd6ea9770014e13cb46feca3709808a8eeca16",
-    "retrain_time_s": 0.3864,
+    "hash_before": "4185f6b440bb22163bfbb34990ed9df90e5da135ca8a2aadf554a92b2184bff3",
+    "hash_after": "107af923ad7c944259068b2d4f4a1c67d1cf4a9c7df2f3c301cff5d0e89b922f",
+    "retrain_time_s": 0.3931,
     "strategy": "Similarity"
   },
   {
@@ -306,9 +306,9 @@
       52591
     ],
     "shard_id": 14,
-    "hash_before": "832b51b08a103d9cdf090170935aeeb39fe30b5541b1980bd28feba7ad1048ac",
-    "hash_after": "f7444727458b5f0b7fd8af2769ff83ab77955f8cae09bd3cad1d2b2f2a545462",
-    "retrain_time_s": 0.4352,
+    "hash_before": "249496aa4662131b70437ab86f2f1afd7c8d12e1a3dc7f0842c3f9219f648e37",
+    "hash_after": "7d4743b8358a8a60f31bf5a2d05be3d4e76430287ba0fcbabe0ebf209dba31ea",
+    "retrain_time_s": 0.4294,
     "strategy": "Similarity"
   },
   {
@@ -318,9 +318,9 @@
       52621
     ],
     "shard_id": 14,
-    "hash_before": "f7444727458b5f0b7fd8af2769ff83ab77955f8cae09bd3cad1d2b2f2a545462",
-    "hash_after": "d5cdf0fabbcf22076c8bfcc64490bd69ab119697ac15c0793eadccfabb8eb0ef",
-    "retrain_time_s": 0.3521,
+    "hash_before": "7d4743b8358a8a60f31bf5a2d05be3d4e76430287ba0fcbabe0ebf209dba31ea",
+    "hash_after": "69c5a5cce2d52167ed60148391a0ccb89ed154b34f680193cc1e0803743558a9",
+    "retrain_time_s": 0.4211,
     "strategy": "Similarity"
   },
   {
@@ -330,9 +330,9 @@
       52609
     ],
     "shard_id": 4,
-    "hash_before": "b1533cb208c9fc1f9af5818edd3fac0c01eec061a653bc4be16f5207d27b7b93",
-    "hash_after": "eb60e3600f49c97af5ce22e344f653e7257ca8966b091fee936149483d8f4da8",
-    "retrain_time_s": 0.6363,
+    "hash_before": "42d7d8e5087a170dfcc84d5eee4ac6b09e9bc7d6c70296d291e4ea7b4d4ee6f0",
+    "hash_after": "f811de693720e9b6d6972ee12d50ca2a5ce828641a7693cc10aa522ff6b4fa4f",
+    "retrain_time_s": 0.5413,
     "strategy": "Similarity"
   },
   {
@@ -342,9 +342,9 @@
       52829
     ],
     "shard_id": 18,
-    "hash_before": "e4d9fd6dbf4b6e0e613dc77d01c55e2d7ebbdaabafd93df899c36ea6ba020f79",
-    "hash_after": "11750cee9764f17346dea6dc1d1830322308c3a00b1fcb35e757c7fdc484cfd7",
-    "retrain_time_s": 0.5206,
+    "hash_before": "fd5cb559d1f4d3e83c3157be18795503e0b4df095f8807af816ca506922228f9",
+    "hash_after": "25d1e0548cd0a59e1d7cf1235c8fecc4d2921d8e908977dec3dbc4a64b929829",
+    "retrain_time_s": 0.5716,
     "strategy": "Similarity"
   },
   {
@@ -354,9 +354,9 @@
       52663
     ],
     "shard_id": 4,
-    "hash_before": "eb60e3600f49c97af5ce22e344f653e7257ca8966b091fee936149483d8f4da8",
-    "hash_after": "451988fd51cfc03ad08607f553a5b7476bebd6ad54c520adeb2296a4546f6f6d",
-    "retrain_time_s": 0.4449,
+    "hash_before": "f811de693720e9b6d6972ee12d50ca2a5ce828641a7693cc10aa522ff6b4fa4f",
+    "hash_after": "c9c67a99a11a19c34d9f8611a9a802b46fb469b0b998d3f131d4f5942fd56adf",
+    "retrain_time_s": 0.5446,
     "strategy": "Similarity"
   },
   {
@@ -366,9 +366,9 @@
       52573
     ],
     "shard_id": 11,
-    "hash_before": "5849657512a0b38acb03a9f843939f720923be69085c28ccc6b0ff1b8852bd0a",
-    "hash_after": "afeb3d977412d37c23f565a6cfc84356835bb2484d299db27786272e573de815",
-    "retrain_time_s": 0.2622,
+    "hash_before": "b7aba3d6b9c19cbba00d2adfe949bb5a2ada19e23b854e76eb0c632a81374a4f",
+    "hash_after": "a48ce3473dcfe104962cddbc916afe225075a2f2078e2f52bec70a6ba8e12dca",
+    "retrain_time_s": 0.33,
     "strategy": "Similarity"
   },
   {
@@ -378,9 +378,9 @@
       52496
     ],
     "shard_id": 1,
-    "hash_before": "d56544f6d59db1e2701f190a66686ee17de2d64c036d956054db697ec8872666",
-    "hash_after": "e9a2630cb227e4c07460b98ff498c31a565f07dec1712dea2f7e732650337f96",
-    "retrain_time_s": 0.4142,
+    "hash_before": "625e9d3316cf977535a1d19c097cf812911ef5a089f634a239b27918ba494193",
+    "hash_after": "4a58efc3503b8cf02a8eadd57bb0df26be1855faf539edc6de968fc3b7d57901",
+    "retrain_time_s": 0.5431,
     "strategy": "Similarity"
   },
   {
@@ -390,9 +390,9 @@
       52740
     ],
     "shard_id": 18,
-    "hash_before": "11750cee9764f17346dea6dc1d1830322308c3a00b1fcb35e757c7fdc484cfd7",
-    "hash_after": "9e9589f2952c9af601c0ecc65aaa34433b265d5d8cd72c787f7f3297151db15b",
-    "retrain_time_s": 0.6047,
+    "hash_before": "25d1e0548cd0a59e1d7cf1235c8fecc4d2921d8e908977dec3dbc4a64b929829",
+    "hash_after": "3f087706e624c4cfa2923bd5eae417363f83ec6d8f46814391d761ccdd46f44f",
+    "retrain_time_s": 0.6245,
     "strategy": "Similarity"
   },
   {
@@ -402,9 +402,9 @@
       52720
     ],
     "shard_id": 4,
-    "hash_before": "451988fd51cfc03ad08607f553a5b7476bebd6ad54c520adeb2296a4546f6f6d",
-    "hash_after": "e83ca7164fac481736db8fb06154672a9421e861ba31fbf4b90dbff5ecbce77e",
-    "retrain_time_s": 0.6119,
+    "hash_before": "c9c67a99a11a19c34d9f8611a9a802b46fb469b0b998d3f131d4f5942fd56adf",
+    "hash_after": "532b23f5a0e067497208301cf0dbc07061aa886b2e777dd7e03cd9c1e2560760",
+    "retrain_time_s": 0.4753,
     "strategy": "Similarity"
   },
   {
@@ -414,9 +414,9 @@
       52609
     ],
     "shard_id": 8,
-    "hash_before": "b83b411c22fd7137d374348f81351113da49c31f050504186bd76b6cc5a21dcd",
-    "hash_after": "9e7bde11acc7bf5a44d84c8de3cb1a01beda8f2621f4bed9d716ae2252170f82",
-    "retrain_time_s": 0.2247,
+    "hash_before": "2b79682e3e7b96e940db48adc4a94febfa59fc6bbe7bb1eb1a4945e55a06fd0a",
+    "hash_after": "d9b09463732903756864a7d65a0d908e950568424e8e9f58bad2450ce16bae12",
+    "retrain_time_s": 0.2308,
     "strategy": "Similarity"
   },
   {
@@ -426,9 +426,9 @@
       52677
     ],
     "shard_id": 3,
-    "hash_before": "7c338f8308eb8582f72a389f0d03da4af63298d7da16a009c11980895e9409c7",
-    "hash_after": "66c4e778338b344eb43a73f3c8e2a430c06cb481d63c869e0dca66bf8483d457",
-    "retrain_time_s": 0.3645,
+    "hash_before": "a629baa578c8a613641f2bd49376bac82de3a45bc3c678a524ca597485b49ee7",
+    "hash_after": "63d8ab507cdf94165024938c75526eb9b3e085baa21d7451da09553146339994",
+    "retrain_time_s": 0.4197,
     "strategy": "Similarity"
   },
   {
@@ -438,9 +438,9 @@
       52532
     ],
     "shard_id": 10,
-    "hash_before": "9aeefe182ca10e3502a234210969e3d3c55e75d0090a9272b1f28be33413b0a1",
-    "hash_after": "e6a2676c83261e5f77f54c7caac29b2ff86b338ead64ba421d814653ecb2cb7c",
-    "retrain_time_s": 0.4759,
+    "hash_before": "e53790ca05e0e9666a2144b4e05d6cefee79d7b93b15afa3f3955f2816af3d68",
+    "hash_after": "e325edc491c187cd3dcd4edcedd8b154292c641679f4cbb998119d33a02a8796",
+    "retrain_time_s": 0.2976,
     "strategy": "Similarity"
   },
   {
@@ -450,9 +450,9 @@
       52784
     ],
     "shard_id": 4,
-    "hash_before": "e83ca7164fac481736db8fb06154672a9421e861ba31fbf4b90dbff5ecbce77e",
-    "hash_after": "433e0cdd3035cac4dc3a8e4c33cdc8faef7064cacd6528d628a2626449dd329f",
-    "retrain_time_s": 0.4936,
+    "hash_before": "532b23f5a0e067497208301cf0dbc07061aa886b2e777dd7e03cd9c1e2560760",
+    "hash_after": "4d9d554fe64b790e0e61e9499840b02d4e847810506b76bd5771246cc37b66ab",
+    "retrain_time_s": 0.5005,
     "strategy": "Similarity"
   },
   {
@@ -462,9 +462,9 @@
       52906
     ],
     "shard_id": 17,
-    "hash_before": "0d903d0bbfcea820c89146064c8b0c027bd84da64c91e566df17fed92d2c2f1e",
-    "hash_after": "61d80a6a1aa736aef3e092a036ed2311238400affd45ed70807403123a97cd2b",
-    "retrain_time_s": 0.5062,
+    "hash_before": "6c4a7f3d4458c4330f58cd2ddf25f964b7322024fb9b8072f604f1ab7c8dff85",
+    "hash_after": "75e55759289672e569d3954a05bbf1cefb6a5477e00bdd4b82dec56769f20f4f",
+    "retrain_time_s": 0.5284,
     "strategy": "Similarity"
   },
   {
@@ -474,9 +474,9 @@
       52659
     ],
     "shard_id": 4,
-    "hash_before": "433e0cdd3035cac4dc3a8e4c33cdc8faef7064cacd6528d628a2626449dd329f",
-    "hash_after": "939e8345f6d03093d63bdf44dc7c99b21ac7ca72bbdc326609b2bbe98df352f2",
-    "retrain_time_s": 0.5608,
+    "hash_before": "4d9d554fe64b790e0e61e9499840b02d4e847810506b76bd5771246cc37b66ab",
+    "hash_after": "002adaf396a0382d83e75c74cca7292401f1a4a4cdae459e1a0be761edd8c921",
+    "retrain_time_s": 0.5307,
     "strategy": "Similarity"
   },
   {
@@ -486,9 +486,9 @@
       52589
     ],
     "shard_id": 5,
-    "hash_before": "7a15924a10a8df5bf67ae6d58bb0cc93b26e385addffbddf738451aade866a31",
-    "hash_after": "458a8b6b043dd4ca49392b95ba2d4259a2abcdc51abc4e381d4cd40a96faeb59",
-    "retrain_time_s": 0.232,
+    "hash_before": "b5324b9908a29270e648839853af66c50f9dc0938cec1b9020abda8d0696b31a",
+    "hash_after": "25f642380fb18556401e186fde8ec499534b2a9d3be9874ba1428628dc4ccd97",
+    "retrain_time_s": 0.2657,
     "strategy": "Similarity"
   },
   {
@@ -498,9 +498,9 @@
       52844
     ],
     "shard_id": 16,
-    "hash_before": "7fb14af68bc7e5223445475b42fdb22bc92f3bea54d69df2ea4cd897cb75ac70",
-    "hash_after": "fe55efe869f73f4d05ed0f0d9cbc7785a47b64d403c733ca3561fe8da396cb8a",
-    "retrain_time_s": 0.5893,
+    "hash_before": "0d22ee6f5e0019e947efadb2fb2cb007308e8fc5dec97b861b984ac16c4b53b3",
+    "hash_after": "bb29b15f06eb545b97be8a4f552262855aaa91cd058aa5276dc2ea203f77486b",
+    "retrain_time_s": 0.6038,
     "strategy": "Similarity"
   },
   {
@@ -510,9 +510,9 @@
       52571
     ],
     "shard_id": 16,
-    "hash_before": "fe55efe869f73f4d05ed0f0d9cbc7785a47b64d403c733ca3561fe8da396cb8a",
-    "hash_after": "2980b8fa60da7f5c97d3772b480deef197a433efcb7b274d68b65929b47e7bb1",
-    "retrain_time_s": 0.7414,
+    "hash_before": "bb29b15f06eb545b97be8a4f552262855aaa91cd058aa5276dc2ea203f77486b",
+    "hash_after": "3d2864d12ada311d115a096342d1e07df6ab2f55d281f23157d828a67ba39b1f",
+    "retrain_time_s": 0.5418,
     "strategy": "Similarity"
   },
   {
@@ -522,9 +522,9 @@
       52783
     ],
     "shard_id": 14,
-    "hash_before": "d5cdf0fabbcf22076c8bfcc64490bd69ab119697ac15c0793eadccfabb8eb0ef",
-    "hash_after": "b34fcb42921ddf4c95fcf5d6d711290d4347c7e8c491e6bf3363888e01e68a13",
-    "retrain_time_s": 0.4301,
+    "hash_before": "69c5a5cce2d52167ed60148391a0ccb89ed154b34f680193cc1e0803743558a9",
+    "hash_after": "45d0e82e5fb7cdd5d1d1aa3a32a1a4c8ba197b112277b0c49f3b3a3bd0a530fc",
+    "retrain_time_s": 0.458,
     "strategy": "Similarity"
   },
   {
@@ -534,9 +534,9 @@
       52777
     ],
     "shard_id": 19,
-    "hash_before": "84ba5cab6f5f877ba37f423bb1bb9ba8dce19a7b328ac07ce8e4d36258214a75",
-    "hash_after": "1083ee700037ab0c9e0b8f024d11749b63ae557f31de2573d0cccc55d2153182",
-    "retrain_time_s": 0.5777,
+    "hash_before": "6eb339b01e918b65b646dc379e610d2b1bbd82513ce0b7ac587519e62dfcd343",
+    "hash_after": "383fadf5272d00568bc4ec9ddae32c45ae642794d4adcf2403d078fb54c27985",
+    "retrain_time_s": 0.5858,
     "strategy": "Similarity"
   },
   {
@@ -546,9 +546,9 @@
       52830
     ],
     "shard_id": 3,
-    "hash_before": "66c4e778338b344eb43a73f3c8e2a430c06cb481d63c869e0dca66bf8483d457",
-    "hash_after": "f84ac5adaf58297e68fbf712c279fc57a33a9ef50b3756c36cfb645416a456e4",
-    "retrain_time_s": 0.3728,
+    "hash_before": "63d8ab507cdf94165024938c75526eb9b3e085baa21d7451da09553146339994",
+    "hash_after": "3eb8068165daf92f3703658d6e9f9801378087de058cdeeb011c9a30c113c980",
+    "retrain_time_s": 0.3806,
     "strategy": "Similarity"
   },
   {
@@ -558,9 +558,9 @@
       52929
     ],
     "shard_id": 17,
-    "hash_before": "61d80a6a1aa736aef3e092a036ed2311238400affd45ed70807403123a97cd2b",
-    "hash_after": "7997866403128cb9c6ac2dd678b62131aacb0c43ebf75e82f69ec4bf795f2cdd",
-    "retrain_time_s": 0.6078,
+    "hash_before": "75e55759289672e569d3954a05bbf1cefb6a5477e00bdd4b82dec56769f20f4f",
+    "hash_after": "57649597768fb55bbeba59f703e3703ef03322e1dfe26d069457628ffb495900",
+    "retrain_time_s": 0.4947,
     "strategy": "Similarity"
   },
   {
@@ -570,9 +570,9 @@
       52707
     ],
     "shard_id": 4,
-    "hash_before": "939e8345f6d03093d63bdf44dc7c99b21ac7ca72bbdc326609b2bbe98df352f2",
-    "hash_after": "f95c6b174778055a8f492091de615cb9810b4cef4c0df7e6eaf34ae6b6dd991b",
-    "retrain_time_s": 0.4713,
+    "hash_before": "002adaf396a0382d83e75c74cca7292401f1a4a4cdae459e1a0be761edd8c921",
+    "hash_after": "392a39a3cc8ffc12a46bbdb05f2c1353af6bbec328d3eeb21f18a62c0c8f7e93",
+    "retrain_time_s": 0.4859,
     "strategy": "Similarity"
   },
   {
@@ -582,9 +582,9 @@
       52778
     ],
     "shard_id": 16,
-    "hash_before": "2980b8fa60da7f5c97d3772b480deef197a433efcb7b274d68b65929b47e7bb1",
-    "hash_after": "95e571b4e857fe43a23ad78afbd9cad6a6ba382bd5f510d7967d208b97b895cd",
-    "retrain_time_s": 0.6297,
+    "hash_before": "3d2864d12ada311d115a096342d1e07df6ab2f55d281f23157d828a67ba39b1f",
+    "hash_after": "07e11f7d729dcb65301952aa58feaa55b0bb56c9639f6329712aff6777fbad46",
+    "retrain_time_s": 0.5772,
     "strategy": "Similarity"
   },
   {
@@ -594,9 +594,9 @@
       52813
     ],
     "shard_id": 9,
-    "hash_before": "2acae309394d6b35c8c3142491564d5467d5ffe2c9a47e6330042723d47bfe27",
-    "hash_after": "458f1f8a7eb265b6a513e2ba99845a39034def3d2d169bf25dea6c130f4708f4",
-    "retrain_time_s": 0.3942,
+    "hash_before": "a8a8caa53c89e0d41ca0e8fe020be36f99c2ffc7d78db7b25fbadaeff324cb04",
+    "hash_after": "8377a8444bdb0c0a3be41391cb55dd1c5c815e56be4ac5a20f0f74e259dded4b",
+    "retrain_time_s": 0.4078,
     "strategy": "Similarity"
   },
   {
@@ -606,9 +606,9 @@
       52501
     ],
     "shard_id": 18,
-    "hash_before": "9e9589f2952c9af601c0ecc65aaa34433b265d5d8cd72c787f7f3297151db15b",
-    "hash_after": "7bf9b294c73b8dbdc0ae7177173a04c08d6ceadfdcaae942694a45172838fe2a",
-    "retrain_time_s": 0.6669,
+    "hash_before": "3f087706e624c4cfa2923bd5eae417363f83ec6d8f46814391d761ccdd46f44f",
+    "hash_after": "74aada7f38cfcb5e57fff3df334be4dce35759018889d8bba7c8300788748b26",
+    "retrain_time_s": 0.6104,
     "strategy": "Similarity"
   },
   {
@@ -618,9 +618,9 @@
       52610
     ],
     "shard_id": 18,
-    "hash_before": "7bf9b294c73b8dbdc0ae7177173a04c08d6ceadfdcaae942694a45172838fe2a",
-    "hash_after": "f849accd7796e8670a6755137adf3b8706a468811980b6f78aecec5aa61b8437",
-    "retrain_time_s": 0.5656,
+    "hash_before": "74aada7f38cfcb5e57fff3df334be4dce35759018889d8bba7c8300788748b26",
+    "hash_after": "5ad1f5dae1b87a25982d71164a1944c58b0243259a84f8a1481ea2d8948ffec3",
+    "retrain_time_s": 0.562,
     "strategy": "Similarity"
   },
   {
@@ -630,9 +630,9 @@
       52573
     ],
     "shard_id": 4,
-    "hash_before": "f95c6b174778055a8f492091de615cb9810b4cef4c0df7e6eaf34ae6b6dd991b",
-    "hash_after": "abcc511f3561da46c7b1cc8fbee3dc4ebaa669fc62da6df60017df10a47ce196",
-    "retrain_time_s": 0.4792,
+    "hash_before": "392a39a3cc8ffc12a46bbdb05f2c1353af6bbec328d3eeb21f18a62c0c8f7e93",
+    "hash_after": "cc5372608d89b9ec84f8c07e8f65574cef9e3c2e09936ed8341f01ac422a1fb9",
+    "retrain_time_s": 0.4839,
     "strategy": "Similarity"
   },
   {
@@ -642,9 +642,9 @@
       52866
     ],
     "shard_id": 6,
-    "hash_before": "b6ad4fe00bd7de738c929bed1aecb2ced28814b4bea05dfb2c2cd949e4a2e91b",
-    "hash_after": "a3d165d7cc75b8dbc01b66e20f7979c701b870aedbac273ba9524c2d1ff45636",
-    "retrain_time_s": 0.2906,
+    "hash_before": "db1f54340bd75543c59a24ec0e872e25007439ec517749329154968a1521dbd9",
+    "hash_after": "6206c57e05e9b3da36a70c1e7ce34297b0a462501a09d58207a41540d55a8fad",
+    "retrain_time_s": 0.3115,
     "strategy": "Similarity"
   },
   {
@@ -654,9 +654,9 @@
       52704
     ],
     "shard_id": 12,
-    "hash_before": "2f7be0a2eb24c94bd8b34a41ccab585a86758eadcbba75ab2947079f5077d2d2",
-    "hash_after": "c8920d5810a80ff12aa306517ad3a4c67c32d0dd9e1c9ffe95a0822985c2d643",
-    "retrain_time_s": 0.2466,
+    "hash_before": "d8e4b99a7502e9ee3ebdd9cc883336e942d79ae4ad48c48262f215508fd4bef7",
+    "hash_after": "0a0d994c4a16d2c191eeb7587ce1efdef61c71bd6201913016373babd33d4029",
+    "retrain_time_s": 0.2337,
     "strategy": "Similarity"
   },
   {
@@ -666,9 +666,9 @@
       52586
     ],
     "shard_id": 15,
-    "hash_before": "0f0b24ea9c2fa0e6f2ab53278ad8b94e1d781367da46bda922206da689d6b4f5",
-    "hash_after": "06971d9512edd4fa0ad8c31b87f8ee33406c9ed89924981ff87cc0521bbac4f9",
-    "retrain_time_s": 0.3235,
+    "hash_before": "660abb5c3ec194336cb76e48dfee32022cea40e7bfdf07f526ad529d53f1187a",
+    "hash_after": "a244ce084c5394e07d79a84d2e51d9f958a88ea6cdd8a7456d07ff6c266a791d",
+    "retrain_time_s": 0.3185,
     "strategy": "Similarity"
   },
   {
@@ -678,9 +678,9 @@
       52781
     ],
     "shard_id": 18,
-    "hash_before": "f849accd7796e8670a6755137adf3b8706a468811980b6f78aecec5aa61b8437",
-    "hash_after": "0242a187e10d71dddf3261fedcfc680de7a755cda13c22284eb4cd198ccf2aa1",
-    "retrain_time_s": 0.6756,
+    "hash_before": "5ad1f5dae1b87a25982d71164a1944c58b0243259a84f8a1481ea2d8948ffec3",
+    "hash_after": "f74e8afd8b6be35d3d4c8a6a61a98d48975b32944a7084560047eb4ccd60038a",
+    "retrain_time_s": 0.5484,
     "strategy": "Similarity"
   },
   {
@@ -690,9 +690,9 @@
       52538
     ],
     "shard_id": 16,
-    "hash_before": "95e571b4e857fe43a23ad78afbd9cad6a6ba382bd5f510d7967d208b97b895cd",
-    "hash_after": "7ac1aa76f7b24703bab965b3a8fe1f920cdd17ea37fb0fee14e44f6e2bcafaff",
-    "retrain_time_s": 0.6133,
+    "hash_before": "07e11f7d729dcb65301952aa58feaa55b0bb56c9639f6329712aff6777fbad46",
+    "hash_after": "95229121c908db4277aeb907671a2c6423d734a1a88ada1e24b47a21b805e0bd",
+    "retrain_time_s": 0.6173,
     "strategy": "Similarity"
   },
   {
@@ -702,9 +702,9 @@
       52758
     ],
     "shard_id": 17,
-    "hash_before": "7997866403128cb9c6ac2dd678b62131aacb0c43ebf75e82f69ec4bf795f2cdd",
-    "hash_after": "187879f37d3b32eff1d598186bfd97068b52e34e8b11997827171b2ce4b5ca12",
-    "retrain_time_s": 0.546,
+    "hash_before": "57649597768fb55bbeba59f703e3703ef03322e1dfe26d069457628ffb495900",
+    "hash_after": "e92a61e5895ba93cd2a9b22a99f332dd010b89f44f54a8ac6c6684a114a868c6",
+    "retrain_time_s": 0.5073,
     "strategy": "Similarity"
   },
   {
@@ -714,9 +714,9 @@
       52589
     ],
     "shard_id": 4,
-    "hash_before": "abcc511f3561da46c7b1cc8fbee3dc4ebaa669fc62da6df60017df10a47ce196",
-    "hash_after": "2aa1e2f5d868e78558beeaf76399fb62c3daeca3dc64b06a8f3d1126c6b49992",
-    "retrain_time_s": 0.4967,
+    "hash_before": "cc5372608d89b9ec84f8c07e8f65574cef9e3c2e09936ed8341f01ac422a1fb9",
+    "hash_after": "33be82dcb25d94126825dee64714e9d56938cf861396fb13ff5dae2ea1e66d23",
+    "retrain_time_s": 0.5944,
     "strategy": "Similarity"
   },
   {
@@ -726,9 +726,9 @@
       52574
     ],
     "shard_id": 3,
-    "hash_before": "f84ac5adaf58297e68fbf712c279fc57a33a9ef50b3756c36cfb645416a456e4",
-    "hash_after": "387b449c78cdc4301f21776aec83f2394599957ceb9d9946becd1ed3771b9e5b",
-    "retrain_time_s": 0.3868,
+    "hash_before": "3eb8068165daf92f3703658d6e9f9801378087de058cdeeb011c9a30c113c980",
+    "hash_after": "bb421306a02a0a282371da27f327ba3f5204b239a80943c241f5e969baa67cbe",
+    "retrain_time_s": 0.3879,
     "strategy": "Similarity"
   },
   {
@@ -738,9 +738,9 @@
       52792
     ],
     "shard_id": 17,
-    "hash_before": "187879f37d3b32eff1d598186bfd97068b52e34e8b11997827171b2ce4b5ca12",
-    "hash_after": "512b08c6518479956f78a52c6c8aaa157e093d9bab4659fed754eecd91b86056",
-    "retrain_time_s": 0.5669,
+    "hash_before": "e92a61e5895ba93cd2a9b22a99f332dd010b89f44f54a8ac6c6684a114a868c6",
+    "hash_after": "36e1dfa34259ade3f53d96d8ae0a29bdc055e993f7845db392f936afcabdabca",
+    "retrain_time_s": 0.4983,
     "strategy": "Similarity"
   },
   {
@@ -750,9 +750,9 @@
       52554
     ],
     "shard_id": 18,
-    "hash_before": "0242a187e10d71dddf3261fedcfc680de7a755cda13c22284eb4cd198ccf2aa1",
-    "hash_after": "aecbddeafab68942b84e04c5a2557889b651ca55f44dbbb4e5ffa4cdf210e3db",
-    "retrain_time_s": 0.5829,
+    "hash_before": "f74e8afd8b6be35d3d4c8a6a61a98d48975b32944a7084560047eb4ccd60038a",
+    "hash_after": "3ec18da2d37a27b44ece759f906aa63c5ee46833e2245ffdb53e0581d66cafdc",
+    "retrain_time_s": 0.5729,
     "strategy": "Similarity"
   },
   {
@@ -762,9 +762,9 @@
       52784
     ],
     "shard_id": 13,
-    "hash_before": "d75ccd7fbe44b8ce873112e4c57cc353ee54d1d2070e1e993042c53a487277a1",
-    "hash_after": "b2eb7e21f5be780c169bb1dfed2120860fafb992dcea0913f525c93fe183277e",
-    "retrain_time_s": 0.3322,
+    "hash_before": "1fded7658c98c45b216ae4b90332d89d41657eb6660ace2c2f0c3b4e284fd5bf",
+    "hash_after": "0d3bb5301af72170f6fa7b2092b7193655ed33abf79f545d8866d9f1a4a580df",
+    "retrain_time_s": 0.3599,
     "strategy": "Similarity"
   },
   {
@@ -774,9 +774,9 @@
       52551
     ],
     "shard_id": 2,
-    "hash_before": "39569caa29cc3f8c702d752171bd6ea9770014e13cb46feca3709808a8eeca16",
-    "hash_after": "63d7c93ee52dc7a3c5dad716af2512ae0b694c36f5695727dd761170a8667aaf",
-    "retrain_time_s": 0.4758,
+    "hash_before": "107af923ad7c944259068b2d4f4a1c67d1cf4a9c7df2f3c301cff5d0e89b922f",
+    "hash_after": "ed9efe62d86c932447d73b576119676f3189e78be26309c9c4da95b687955ea6",
+    "retrain_time_s": 0.4086,
     "strategy": "Similarity"
   },
   {
@@ -786,9 +786,9 @@
       52542
     ],
     "shard_id": 18,
-    "hash_before": "aecbddeafab68942b84e04c5a2557889b651ca55f44dbbb4e5ffa4cdf210e3db",
-    "hash_after": "3fc2d93fcdb44767a5f16c6196eda8303c9ea2122a4d8ec659097e76d86658cd",
-    "retrain_time_s": 0.6126,
+    "hash_before": "3ec18da2d37a27b44ece759f906aa63c5ee46833e2245ffdb53e0581d66cafdc",
+    "hash_after": "79d63bff6a2335fd61b851eea9d16f9c6eac98ad04bcbe9eb37dc24f41cf0b81",
+    "retrain_time_s": 0.5448,
     "strategy": "Similarity"
   },
   {
@@ -798,9 +798,9 @@
       52777
     ],
     "shard_id": 18,
-    "hash_before": "3fc2d93fcdb44767a5f16c6196eda8303c9ea2122a4d8ec659097e76d86658cd",
-    "hash_after": "57091f90c3a3fb2a429c79e356119addfd919a290569a067f71788d6fea97e7e",
-    "retrain_time_s": 0.6313,
+    "hash_before": "79d63bff6a2335fd61b851eea9d16f9c6eac98ad04bcbe9eb37dc24f41cf0b81",
+    "hash_after": "41f5f4d4cd5eb222ff8812e7acb585deda216e28eb7573d0769b03b24a9c74fb",
+    "retrain_time_s": 0.5762,
     "strategy": "Similarity"
   },
   {
@@ -810,9 +810,9 @@
       52590
     ],
     "shard_id": 13,
-    "hash_before": "b2eb7e21f5be780c169bb1dfed2120860fafb992dcea0913f525c93fe183277e",
-    "hash_after": "7bbec63a0cecfe3daa3447e134d23372b7eda478ab18a32febd2890ea4afb2f2",
-    "retrain_time_s": 0.3598,
+    "hash_before": "0d3bb5301af72170f6fa7b2092b7193655ed33abf79f545d8866d9f1a4a580df",
+    "hash_after": "05d2be846e5a1f4066ce4158fc8e3a902526b48bc7a848218218b4efcfd93993",
+    "retrain_time_s": 0.4341,
     "strategy": "Similarity"
   },
   {
@@ -822,9 +822,9 @@
       52724
     ],
     "shard_id": 0,
-    "hash_before": "edbb56c5e461740ab426a8b4e49be4e02ef286c1b435ffa25cc6a4d53db13d56",
-    "hash_after": "ffb0499077b558a2a9a83ebfe515865e57b2414aef5de7309b55f04d3af9cfc9",
-    "retrain_time_s": 0.4544,
+    "hash_before": "9e9e987168d9b4fb760de4c0995404c1a2425a17085af9d00f03e13fe003c99e",
+    "hash_after": "7724c98c9d21dc032e072b689d69ad023d64a1a417b46d9bf14705e247fd6899",
+    "retrain_time_s": 0.386,
     "strategy": "Similarity"
   },
   {
@@ -834,9 +834,9 @@
       52551
     ],
     "shard_id": 3,
-    "hash_before": "387b449c78cdc4301f21776aec83f2394599957ceb9d9946becd1ed3771b9e5b",
-    "hash_after": "e2c17a2ce9d533773716e6e3227bdcf2afab5587dbf7c21a5eb29192b86624ab",
-    "retrain_time_s": 0.3754,
+    "hash_before": "bb421306a02a0a282371da27f327ba3f5204b239a80943c241f5e969baa67cbe",
+    "hash_after": "ca6aa393a4b6ccbd0261f6a03b9bec8fa1a0f671c22424fdb2daf5d7be0151b5",
+    "retrain_time_s": 0.3882,
     "strategy": "Similarity"
   },
   {
@@ -846,9 +846,9 @@
       52763
     ],
     "shard_id": 17,
-    "hash_before": "512b08c6518479956f78a52c6c8aaa157e093d9bab4659fed754eecd91b86056",
-    "hash_after": "0d69f3964b8122f6af52679c91a0959f44202a067244dee38a0e273818c0a715",
-    "retrain_time_s": 0.4289,
+    "hash_before": "36e1dfa34259ade3f53d96d8ae0a29bdc055e993f7845db392f936afcabdabca",
+    "hash_after": "2047bdb21d322a21b2d1a00fe3d5cc7759146b2172f0707af2767b32df950356",
+    "retrain_time_s": 0.6828,
     "strategy": "Similarity"
   },
   {
@@ -858,9 +858,9 @@
       52740
     ],
     "shard_id": 13,
-    "hash_before": "7bbec63a0cecfe3daa3447e134d23372b7eda478ab18a32febd2890ea4afb2f2",
-    "hash_after": "d164fd331fb00287d9cb036e64c91aaecd96cea30fca183a1779249f8b480fb1",
-    "retrain_time_s": 0.3808,
+    "hash_before": "05d2be846e5a1f4066ce4158fc8e3a902526b48bc7a848218218b4efcfd93993",
+    "hash_after": "dfc0160046d5cc44379f7f6e10fc0a58f17f9d4ca163b9e0f4626bf4c7b55cd8",
+    "retrain_time_s": 0.4239,
     "strategy": "Similarity"
   },
   {
@@ -870,9 +870,9 @@
       52634
     ],
     "shard_id": 6,
-    "hash_before": "a3d165d7cc75b8dbc01b66e20f7979c701b870aedbac273ba9524c2d1ff45636",
-    "hash_after": "aaffb2a5f46639aef49fc2d3a371d9b3fed1db7d2b432332c288ef25b4500e60",
-    "retrain_time_s": 0.3046,
+    "hash_before": "6206c57e05e9b3da36a70c1e7ce34297b0a462501a09d58207a41540d55a8fad",
+    "hash_after": "bc00658082aa05a6818e8fdd1f1e84fcca1b28432304f82f6ac3cad39be1c33f",
+    "retrain_time_s": 0.3258,
     "strategy": "Similarity"
   },
   {
@@ -882,9 +882,9 @@
       52488
     ],
     "shard_id": 0,
-    "hash_before": "ffb0499077b558a2a9a83ebfe515865e57b2414aef5de7309b55f04d3af9cfc9",
-    "hash_after": "1dfa65aab235a46870acea2d3713ecf28b564cc3b14f1d6f343d0c47e27d656f",
-    "retrain_time_s": 0.4518,
+    "hash_before": "7724c98c9d21dc032e072b689d69ad023d64a1a417b46d9bf14705e247fd6899",
+    "hash_after": "5cb5adc4d55f4c43372404f24251cbfa82ce268ab349f2622e7462a58bfa47d7",
+    "retrain_time_s": 0.3356,
     "strategy": "Similarity"
   },
   {
@@ -894,9 +894,9 @@
       52928
     ],
     "shard_id": 2,
-    "hash_before": "63d7c93ee52dc7a3c5dad716af2512ae0b694c36f5695727dd761170a8667aaf",
-    "hash_after": "e6c8283879f7e7097ffdb9b0802241875f32d3faa4a5d94bac4e089b798eee96",
-    "retrain_time_s": 0.4023,
+    "hash_before": "ed9efe62d86c932447d73b576119676f3189e78be26309c9c4da95b687955ea6",
+    "hash_after": "a3fb0ea03ee9b8ed35eae36292d620d7151f5dd72264adc9379ca38dc38f8a7e",
+    "retrain_time_s": 0.4012,
     "strategy": "Similarity"
   },
   {
@@ -906,9 +906,9 @@
       52522
     ],
     "shard_id": 7,
-    "hash_before": "3a353dbffa71104265e8e662c57896f1b2824e55f7528bcf66767bcf47c86ed7",
-    "hash_after": "566200676531d9ef0426777f21759cf5cf6d77f0c9273ef34d3c6b19f579886e",
-    "retrain_time_s": 0.6624,
+    "hash_before": "6ad93d7a77800111b5697c0e7dfbe57176ff5eeee27ea7b7c7375ee6551790b3",
+    "hash_after": "6aa4655641e52b53e77de1f699b654f17aef6a632ebb2181d40ccafb71ff96ea",
+    "retrain_time_s": 0.4429,
     "strategy": "Similarity"
   },
   {
@@ -918,9 +918,9 @@
       52536
     ],
     "shard_id": 15,
-    "hash_before": "06971d9512edd4fa0ad8c31b87f8ee33406c9ed89924981ff87cc0521bbac4f9",
-    "hash_after": "6da6756546cddf88e7207da8f00dbd25d01b4e91423f04e30b686dba14fcbc28",
-    "retrain_time_s": 0.3305,
+    "hash_before": "a244ce084c5394e07d79a84d2e51d9f958a88ea6cdd8a7456d07ff6c266a791d",
+    "hash_after": "8adde339062ea58cd7d7533e554162c458a5331bb558dfc32db9065fb700ae95",
+    "retrain_time_s": 0.3186,
     "strategy": "Similarity"
   },
   {
@@ -930,9 +930,9 @@
       52573
     ],
     "shard_id": 3,
-    "hash_before": "e2c17a2ce9d533773716e6e3227bdcf2afab5587dbf7c21a5eb29192b86624ab",
-    "hash_after": "8af06f7d4997c5a099f6f47bf685c332c7984ddea936aaa60fe818dd673a01b7",
-    "retrain_time_s": 0.3606,
+    "hash_before": "ca6aa393a4b6ccbd0261f6a03b9bec8fa1a0f671c22424fdb2daf5d7be0151b5",
+    "hash_after": "d6aecb002216094342ff7a057396f05034cdf08308cc95501635236d4d48d0de",
+    "retrain_time_s": 0.3685,
     "strategy": "Similarity"
   },
   {
@@ -942,9 +942,9 @@
       52515
     ],
     "shard_id": 16,
-    "hash_before": "7ac1aa76f7b24703bab965b3a8fe1f920cdd17ea37fb0fee14e44f6e2bcafaff",
-    "hash_after": "0687cd9d84f05aeb55e1185d8d1216efc7ec1d0dc5ce59035f4b3561c959f26d",
-    "retrain_time_s": 0.8178,
+    "hash_before": "95229121c908db4277aeb907671a2c6423d734a1a88ada1e24b47a21b805e0bd",
+    "hash_after": "d6501caffcda01acd4def93e624a74b8e75761719d0086fc84d5110b53abea1a",
+    "retrain_time_s": 0.6201,
     "strategy": "Similarity"
   },
   {
@@ -954,9 +954,9 @@
       52536
     ],
     "shard_id": 6,
-    "hash_before": "aaffb2a5f46639aef49fc2d3a371d9b3fed1db7d2b432332c288ef25b4500e60",
-    "hash_after": "e06c91ed670d9402efb7d178b4bfdfd67001fa1ab6d668127b706e0fdbe7def7",
-    "retrain_time_s": 0.2997,
+    "hash_before": "bc00658082aa05a6818e8fdd1f1e84fcca1b28432304f82f6ac3cad39be1c33f",
+    "hash_after": "a26ca8ede3cc5ff6770f273fe37bccb5fdf8fc4248db3ec52d8c6a628f6f6e71",
+    "retrain_time_s": 0.3182,
     "strategy": "Similarity"
   },
   {
@@ -966,9 +966,9 @@
       52562
     ],
     "shard_id": 18,
-    "hash_before": "57091f90c3a3fb2a429c79e356119addfd919a290569a067f71788d6fea97e7e",
-    "hash_after": "ae02a21c7142bbbd246fded1737a44e66fd6f3a2a4c943c593a4219bcef265e7",
-    "retrain_time_s": 0.3959,
+    "hash_before": "41f5f4d4cd5eb222ff8812e7acb585deda216e28eb7573d0769b03b24a9c74fb",
+    "hash_after": "c53b9ca3e13b9e62ba9f2c02a93a60d7c9c6ea4e62ac3098b33a1ebcc3dea0a4",
+    "retrain_time_s": 0.5637,
     "strategy": "Similarity"
   },
   {
@@ -978,9 +978,9 @@
       52755
     ],
     "shard_id": 4,
-    "hash_before": "2aa1e2f5d868e78558beeaf76399fb62c3daeca3dc64b06a8f3d1126c6b49992",
-    "hash_after": "491f0693506e19659730d9e2c4b30ee321be0d6b0c31f2ab23ae900718d5087c",
-    "retrain_time_s": 0.568,
+    "hash_before": "33be82dcb25d94126825dee64714e9d56938cf861396fb13ff5dae2ea1e66d23",
+    "hash_after": "14b95ff74e36db3a2cd49c8189c1c5d9f590bec0165d1fc5b1199961f7781609",
+    "retrain_time_s": 0.4887,
     "strategy": "Similarity"
   },
   {
@@ -990,9 +990,9 @@
       52745
     ],
     "shard_id": 11,
-    "hash_before": "afeb3d977412d37c23f565a6cfc84356835bb2484d299db27786272e573de815",
-    "hash_after": "f252bd4a29cd0d30605fdd0a7b41332caa312975a0f8394171bf84d8ab2c8257",
-    "retrain_time_s": 0.301,
+    "hash_before": "a48ce3473dcfe104962cddbc916afe225075a2f2078e2f52bec70a6ba8e12dca",
+    "hash_after": "107c3aa68de1883ea17a23e346f0f1fff6f178a1332c350ca39c85a5f748564b",
+    "retrain_time_s": 0.3343,
     "strategy": "Similarity"
   },
   {
@@ -1002,9 +1002,9 @@
       52940
     ],
     "shard_id": 7,
-    "hash_before": "566200676531d9ef0426777f21759cf5cf6d77f0c9273ef34d3c6b19f579886e",
-    "hash_after": "09fce9bf2ed9b3235c67d3302cb20fa8a703fb53273082b371aaec0ed9ce840d",
-    "retrain_time_s": 0.3915,
+    "hash_before": "6aa4655641e52b53e77de1f699b654f17aef6a632ebb2181d40ccafb71ff96ea",
+    "hash_after": "5afbdf4c55988041378d127d02efd3e33001c99483ef80acaf198d6bd97f0beb",
+    "retrain_time_s": 0.4285,
     "strategy": "Similarity"
   },
   {
@@ -1014,9 +1014,9 @@
       52720
     ],
     "shard_id": 4,
-    "hash_before": "491f0693506e19659730d9e2c4b30ee321be0d6b0c31f2ab23ae900718d5087c",
-    "hash_after": "2bfbba1790fb3143978181cea79b978df5ac9737ff133fe28864f34cd8e6345e",
-    "retrain_time_s": 0.5532,
+    "hash_before": "14b95ff74e36db3a2cd49c8189c1c5d9f590bec0165d1fc5b1199961f7781609",
+    "hash_after": "a6960743037c0d483ef821a12646e96bb9a4266ab29fdc16b364dd29c41b8059",
+    "retrain_time_s": 0.5646,
     "strategy": "Similarity"
   },
   {
@@ -1026,9 +1026,9 @@
       52707
     ],
     "shard_id": 5,
-    "hash_before": "458a8b6b043dd4ca49392b95ba2d4259a2abcdc51abc4e381d4cd40a96faeb59",
-    "hash_after": "8cbc5023b64a1b69180de80925b4559927ecfa0e59157b043cec272da512435f",
-    "retrain_time_s": 0.2514,
+    "hash_before": "25f642380fb18556401e186fde8ec499534b2a9d3be9874ba1428628dc4ccd97",
+    "hash_after": "37c214c4bebe080fd95bb3f251cfc3ebe473fb5fefd1474100104ec93460b820",
+    "retrain_time_s": 0.2648,
     "strategy": "Similarity"
   },
   {
@@ -1038,9 +1038,9 @@
       52823
     ],
     "shard_id": 14,
-    "hash_before": "b34fcb42921ddf4c95fcf5d6d711290d4347c7e8c491e6bf3363888e01e68a13",
-    "hash_after": "b97287ef3d18a52e6d36fcb0b1ee5fe880c722febec9322ad6c99f997c798d59",
-    "retrain_time_s": 0.5219,
+    "hash_before": "45d0e82e5fb7cdd5d1d1aa3a32a1a4c8ba197b112277b0c49f3b3a3bd0a530fc",
+    "hash_after": "f4551e8c1827a051510557072559742f8ad921e516b1669e24a1997f7aeeb354",
+    "retrain_time_s": 0.4287,
     "strategy": "Similarity"
   },
   {
@@ -1050,9 +1050,9 @@
       52561
     ],
     "shard_id": 11,
-    "hash_before": "f252bd4a29cd0d30605fdd0a7b41332caa312975a0f8394171bf84d8ab2c8257",
-    "hash_after": "8b6e37c24a335ddd6cdae76da3d2be5f5dbea5987898996833f6861d70b6f2cc",
-    "retrain_time_s": 0.389,
+    "hash_before": "107c3aa68de1883ea17a23e346f0f1fff6f178a1332c350ca39c85a5f748564b",
+    "hash_after": "f107714ed5b3dc6052d659adef1e6075191a3ff165853cb4b30eb8d295dc2b19",
+    "retrain_time_s": 0.3385,
     "strategy": "Similarity"
   },
   {
@@ -1062,9 +1062,9 @@
       52587
     ],
     "shard_id": 2,
-    "hash_before": "e6c8283879f7e7097ffdb9b0802241875f32d3faa4a5d94bac4e089b798eee96",
-    "hash_after": "65fdbfe12b3b64a358b9f19415614bdc73413658514e4eacd22dd9583b73e10f",
-    "retrain_time_s": 0.4064,
+    "hash_before": "a3fb0ea03ee9b8ed35eae36292d620d7151f5dd72264adc9379ca38dc38f8a7e",
+    "hash_after": "369b73f1def61feba04e4282776e14ef43273b49faacf800c36d4a492b40b0c7",
+    "retrain_time_s": 0.3987,
     "strategy": "Similarity"
   },
   {
@@ -1074,9 +1074,9 @@
       52762
     ],
     "shard_id": 1,
-    "hash_before": "e9a2630cb227e4c07460b98ff498c31a565f07dec1712dea2f7e732650337f96",
-    "hash_after": "87d587aba14de92ad806bbe572f7012c37188cb346c5770be8bfbb9dd733aa44",
-    "retrain_time_s": 0.4283,
+    "hash_before": "4a58efc3503b8cf02a8eadd57bb0df26be1855faf539edc6de968fc3b7d57901",
+    "hash_after": "36749cca919eb3bf2bbbb1aaeff90546dd4acbdb897a66150de6683843b2d97b",
+    "retrain_time_s": 0.4989,
     "strategy": "Similarity"
   },
   {
@@ -1086,9 +1086,9 @@
       52762
     ],
     "shard_id": 13,
-    "hash_before": "d164fd331fb00287d9cb036e64c91aaecd96cea30fca183a1779249f8b480fb1",
-    "hash_after": "08ff5863b98ce0cf8f6aefbf8437271a843669eef28f793f0c7df57dc496f742",
-    "retrain_time_s": 0.3671,
+    "hash_before": "dfc0160046d5cc44379f7f6e10fc0a58f17f9d4ca163b9e0f4626bf4c7b55cd8",
+    "hash_after": "08827fbbfd15d3039453883782a783abf8a1f5c5ac82ec8ce3108f3a2653fab8",
+    "retrain_time_s": 0.4385,
     "strategy": "Similarity"
   },
   {
@@ -1098,9 +1098,9 @@
       52692
     ],
     "shard_id": 10,
-    "hash_before": "e6a2676c83261e5f77f54c7caac29b2ff86b338ead64ba421d814653ecb2cb7c",
-    "hash_after": "79b97eb291cae12ef1061137518c1a26ac2095d6d25d1b858ff8fa70274e658e",
-    "retrain_time_s": 0.3313,
+    "hash_before": "e325edc491c187cd3dcd4edcedd8b154292c641679f4cbb998119d33a02a8796",
+    "hash_after": "a16d9447bf59a1669d58b5357f488389059508265a1a1052cdab7a7ff86d8373",
+    "retrain_time_s": 0.3026,
     "strategy": "Similarity"
   },
   {
@@ -1110,9 +1110,9 @@
       52784
     ],
     "shard_id": 4,
-    "hash_before": "2bfbba1790fb3143978181cea79b978df5ac9737ff133fe28864f34cd8e6345e",
-    "hash_after": "5865c5ad11615ba4b886890fffa5778a5d75d92d82a16d95305db977a91503e0",
-    "retrain_time_s": 0.4586,
+    "hash_before": "a6960743037c0d483ef821a12646e96bb9a4266ab29fdc16b364dd29c41b8059",
+    "hash_after": "7001d0e3751c9f387f0adafba51081a160172e3e8274bf10ac809fe0addd29fd",
+    "retrain_time_s": 0.5168,
     "strategy": "Similarity"
   },
   {
@@ -1122,9 +1122,9 @@
       52765
     ],
     "shard_id": 12,
-    "hash_before": "c8920d5810a80ff12aa306517ad3a4c67c32d0dd9e1c9ffe95a0822985c2d643",
-    "hash_after": "c914667585ba403626be303965176c12432865a61204a2504051de48824e85a4",
-    "retrain_time_s": 0.2536,
+    "hash_before": "0a0d994c4a16d2c191eeb7587ce1efdef61c71bd6201913016373babd33d4029",
+    "hash_after": "136692036928b4834ce83a3a4dfb94d575d4cb5855eb1553e6185ebbe483e095",
+    "retrain_time_s": 0.2356,
     "strategy": "Similarity"
   },
   {
@@ -1134,9 +1134,9 @@
       52737
     ],
     "shard_id": 18,
-    "hash_before": "ae02a21c7142bbbd246fded1737a44e66fd6f3a2a4c943c593a4219bcef265e7",
-    "hash_after": "5d2d9ede57e7dcf2c29c26bbb10649f23d099783eccbf3024439866d46eea2ef",
-    "retrain_time_s": 0.7369,
+    "hash_before": "c53b9ca3e13b9e62ba9f2c02a93a60d7c9c6ea4e62ac3098b33a1ebcc3dea0a4",
+    "hash_after": "557554aa1ef59da711c1692a92fe33a5fa60a52bd9fdb801617d24cab26dfe35",
+    "retrain_time_s": 0.6526,
     "strategy": "Similarity"
   },
   {
@@ -1146,9 +1146,9 @@
       52631
     ],
     "shard_id": 4,
-    "hash_before": "5865c5ad11615ba4b886890fffa5778a5d75d92d82a16d95305db977a91503e0",
-    "hash_after": "2813acfbcfa92025d0bc1f44ffee7df32331408a82baa59624e42b069e476794",
-    "retrain_time_s": 0.6001,
+    "hash_before": "7001d0e3751c9f387f0adafba51081a160172e3e8274bf10ac809fe0addd29fd",
+    "hash_after": "fc95af4e5bc93efb8f26232f9a5d4df22dfca1201080fe0bcbe1b489ee7e470e",
+    "retrain_time_s": 0.4809,
     "strategy": "Similarity"
   },
   {
@@ -1158,9 +1158,9 @@
       52653
     ],
     "shard_id": 13,
-    "hash_before": "08ff5863b98ce0cf8f6aefbf8437271a843669eef28f793f0c7df57dc496f742",
-    "hash_after": "3c2d5209091543b51396493f7cc6b30d9a7ac10b8d87cd1fd6a6fe11a8efd278",
-    "retrain_time_s": 0.3618,
+    "hash_before": "08827fbbfd15d3039453883782a783abf8a1f5c5ac82ec8ce3108f3a2653fab8",
+    "hash_after": "b9ff64e93cd91223f8078e0da2a0108cdb6fd5b773c7edcfc280c23314fad113",
+    "retrain_time_s": 0.3756,
     "strategy": "Similarity"
   },
   {
@@ -1170,9 +1170,9 @@
       52567
     ],
     "shard_id": 13,
-    "hash_before": "3c2d5209091543b51396493f7cc6b30d9a7ac10b8d87cd1fd6a6fe11a8efd278",
-    "hash_after": "f20ee7682699258fbdc9f5a5f296137478fa0726308ad8b642aaf7cd9108a9bc",
-    "retrain_time_s": 0.4693,
+    "hash_before": "b9ff64e93cd91223f8078e0da2a0108cdb6fd5b773c7edcfc280c23314fad113",
+    "hash_after": "813978e90c10fd88ef7a5651eb338a17d91c3486ed4eb272cc2cd428faec7217",
+    "retrain_time_s": 0.3607,
     "strategy": "Similarity"
   },
   {
@@ -1182,9 +1182,9 @@
       52675
     ],
     "shard_id": 1,
-    "hash_before": "87d587aba14de92ad806bbe572f7012c37188cb346c5770be8bfbb9dd733aa44",
-    "hash_after": "e2281c4b39eb4423b723676347f93b4d679ea37f4f7cc3ffac139e8349c10f13",
-    "retrain_time_s": 0.555,
+    "hash_before": "36749cca919eb3bf2bbbb1aaeff90546dd4acbdb897a66150de6683843b2d97b",
+    "hash_after": "9bda3a7d259d9289c17902d97729467e93a230fa5448bf473955078cad9a3396",
+    "retrain_time_s": 0.5011,
     "strategy": "Similarity"
   },
   {
@@ -1194,9 +1194,9 @@
       52715
     ],
     "shard_id": 14,
-    "hash_before": "b97287ef3d18a52e6d36fcb0b1ee5fe880c722febec9322ad6c99f997c798d59",
-    "hash_after": "dc9f3ed5e0589ab2ff13a60140341c537fc7eb1769005dd47b11522b876f9499",
-    "retrain_time_s": 0.3594,
+    "hash_before": "f4551e8c1827a051510557072559742f8ad921e516b1669e24a1997f7aeeb354",
+    "hash_after": "255fc06109fd65800e855aede2b4441cc4a31def4501ebe19c2f91571958ccc2",
+    "retrain_time_s": 0.4149,
     "strategy": "Similarity"
   }
 ]

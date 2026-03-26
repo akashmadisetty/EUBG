@@ -46,8 +46,12 @@ NUM_BENCHMARK_DELETIONS = 100
 UNLEARN_SEED            = 123
 
 # ─── Gradient Ascent ──────────────────────────────────────────────────────
-GA_STEPS = 10   # 5–10 gradient ascent steps
-GA_LR    = 0.01
+GA_STEPS     = 10    # fewer steps at very low LR for selective forgetting
+GA_LR        = 0.0005 # much smaller than training LR to avoid catastrophic drift
+GA_CLIP_NORM = 1.0   # gradient clipping max norm
+
+# ─── Full Retraining Baseline ─────────────────────────────────────────────
+FULL_RETRAIN_EPOCHS = EPOCHS  # same as training epochs for fair comparison
 
 # ─── Similarity strategy ─────────────────────────────────────────────────
 SVD_COMPONENTS = 256
