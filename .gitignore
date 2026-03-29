@@ -9,10 +9,10 @@ __pycache__/
 .DS_Store
 
 # Large data (ignore these)
-data/
-*.csv
-*.xlsx
-*.npy
+#data/
+#*.csv
+#*.xlsx
+#*.npy
 
 # Optional: ignore models if too big
 # *.pt
