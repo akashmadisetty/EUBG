@@ -3,7 +3,7 @@
 This repository contains the official implementation of **EUBG** (Edge Unlearning in Bipartite Graphs), a framework for machine unlearning in drug-target interaction (DTI) networks. The framework enables verifiable removal of individual edges from a trained graph neural network while preserving overall model utility.
 
 <p align="center">
-  <img src="image.png" alt="CEUBG Framework Overview" width="800"/>
+  <img src="framework.png" alt="CEUBG Framework Overview" width="800"/>
 </p>
 
 ## Overview
